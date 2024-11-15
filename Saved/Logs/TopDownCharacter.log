@@ -2679,3 +2679,130 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.14-23.59.35:758][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character/BP_TopDownChar_Auto2
 [2024.11.14-23.59.35:759][126]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Saved/BP_TopDownChar_Auto2B3998D834622A369084F5184DDFF4A5C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Saved/Autosaves/Game/Character/BP_TopDownChar_Auto2.uasset'
 [2024.11.14-23.59.35:761][126]LogFileHelpers: Auto-saving content packages took 0.022
+[2024.11.15-00.03.14:950][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4739.331055
+[2024.11.15-00.03.15:050][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-00.03.15:050][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4739.414062, Update Interval: 351.410248
+[2024.11.15-00.05.57:375][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.15-00.05.57:398][ 70]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.15-00.05.57:398][ 70]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.11.15-00.05.57:427][ 70]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 28.808 ms (total: 96.081 ms)
+[2024.11.15-00.05.57:430][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.15-00.05.57:435][ 70]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.11.15-00.05.57:445][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.11.15-00.05.57:460][ 71]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.15-00.05.57:501][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041243s)
+[2024.11.15-00.05.57:501][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.041457s)
+[2024.11.15-00.05.57:538][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.11.15-00.05.57:547][ 71]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.15-00.05.57:558][ 71]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.15-00.05.57:558][ 71]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.15-00.05.57:558][ 71]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.15-00.05.57:558][ 71]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.15-00.05.57:572][ 71]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.11.15-00.05.57:573][ 71]LogWorldPartition: Display: WorldPartition initialize took 14.692 ms (total: 627.024 ms)
+[2024.11.15-00.05.57:573][ 71]LogPlayLevel: PIE: World Init took: (0.030678s)
+[2024.11.15-00.05.57:584][ 71]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.15-00.05.57:586][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.15-00.05.57:586][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.15-00.05.57:588][ 71]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.15-00.05.57:589][ 71]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.15-00.05.57:589][ 71]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.15-00.05.57:594][ 71]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.15-00.05.57:644][ 71]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.15-00.05.57:649][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.15-00.05.57:649][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.15-00.05.57:650][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.15-00.05.57:657][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.15-00.05.57:657][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.15-00.05.57:661][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.15-00.05.57:661][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.15-00.05.57:662][ 71]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.15-00.05.57:662][ 71]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2024.11.15-00.05.57:663][ 71]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.15-00.05.57:690][ 71]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.15-00.05.57:700][ 71]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.11.14-18.05.57
+[2024.11.15-00.05.57:701][ 71]LogWorld: Bringing up level for play took: 0.009756
+[2024.11.15-00.05.57:738][ 71]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.11.15-00.05.58:663][ 71]LogTexture: Display: Waiting for textures to be ready 520/528 (/Memory/UEDPIE_0_EG2N8D6LWJPI1K8N3WU5MJ6VN_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/SB/0L7PJTYD6VY7AGOJQ4Q6LN) ...
+[2024.11.15-00.05.58:767][ 71]PIE: Server logged in
+[2024.11.15-00.05.58:768][ 71]PIE: Play in editor total start time 1.374 seconds.
+[2024.11.15-00.06.14:991][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-00.06.14:991][583]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.11.15-00.06.15:036][583]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-00.06.15:037][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-00.06.15:038][583]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.11.15-00.06.15:038][583]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.15-00.06.15:039][583]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.15-00.06.15:039][583]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.15-00.06.15:044][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.15-00.06.15:058][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-00.06.15:092][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.15-00.06.15:095][583]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.15-00.06.15:096][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.15-00.06.15:100][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.15-00.06.15:117][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.15-00.06.15:139][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.11.15-00.06.15:299][584]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.15-00.09.57:987][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5142.354492
+[2024.11.15-00.09.58:113][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-00.09.58:113][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5142.449219, Update Interval: 335.580322
+[2024.11.15-00.12.55:243][700]LogLinker: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\TopDownCharacter\Content\UI\BP_Start.uasset: Failed to load '/Game/UI/UI_Assets/BATTLE_TOUGH_Font': Can't find file.
+[2024.11.15-00.12.55:244][700]LogLinker: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\TopDownCharacter\Content\UI\BP_Start.uasset: VerifyImport: Failed to load package for import object 'Package /Game/UI/UI_Assets/BATTLE_TOUGH_Font'
+[2024.11.15-00.12.55:246][700]LogLinker: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\TopDownCharacter\Content\UI\BP_Start.uasset: Failed to load '/Game/UI/UI_Assets/geant5-01': Can't find file.
+[2024.11.15-00.12.55:247][700]LogLinker: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\TopDownCharacter\Content\UI\BP_Start.uasset: VerifyImport: Failed to load package for import object 'Package /Game/UI/UI_Assets/geant5-01'
+[2024.11.15-00.12.55:290][700]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_Start.BP_Start
+[2024.11.15-00.12.55:435][700]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.11.15-00.12.56:029][700]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.11.15-00.12.56:043][700]LogSlate: Took 0.010712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.15-00.12.56:053][700]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2024.11.15-00.12.56:076][700]LogSlate: Took 0.020478 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.11.15-00.13.08:018][ 15]LogLinker: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\TopDownCharacter\Content\UI\BP_UI.uasset: Failed to load '/Game/UI/UI_Assets/healthcolor-01': Can't find file.
+[2024.11.15-00.13.08:018][ 15]LogLinker: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\TopDownCharacter\Content\UI\BP_UI.uasset: VerifyImport: Failed to load package for import object 'Package /Game/UI/UI_Assets/healthcolor-01'
+[2024.11.15-00.13.08:031][ 15]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_UI.BP_UI
+[2024.11.15-00.16.12:456][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5516.826660
+[2024.11.15-00.16.13:450][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-00.16.13:450][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5517.480469, Update Interval: 314.773407
+[2024.11.15-00.16.22:902][273]LogSlate: Window 'BP_UI' being destroyed
+[2024.11.15-00.16.22:906][273]LogSlate: Window 'BP_UI' being destroyed
+[2024.11.15-00.16.22:942][273]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-00.16.22:943][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-00.16.22:957][273]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-00.16.22:957][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-00.16.23:015][273]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-00.16.23:015][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-00.16.23:029][273]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.15-00.16.23:029][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.15-00.16.23:144][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2024.11.15-00.16.30:910][650]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_Start.BP_Start
+[2024.11.15-00.16.40:749][ 52]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.15-00.16.47:445][274]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/UI/UI_Assets/geant5-01) ...
+[2024.11.15-00.16.47:477][274]LogTexture: Display: Building textures: /Game/UI/UI_Assets/geant5-01.geant5-01 (BGRA8, 1979x934 x1x1x1) (Required Memory Estimate: 54.120407 MB), EncodeSpeed: Fast
+[2024.11.15-00.17.03:398][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.11.15-00.17.13:028][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.11.15-00.17.13:042][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-00.17.13:129][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.15-00.17.13:129][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.15-00.17.13:144][302]LogSavePackage: Moving output files for package: /Game/Character/BP_TopDownChar
+[2024.11.15-00.17.13:146][302]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Saved/BP_TopDownChar2BBF9DAB406894EE4AE14BAA961C1D56.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Content/Character/BP_TopDownChar.uasset'
+[2024.11.15-00.17.13:149][302]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_Start] ([2] browsable assets)...
+[2024.11.15-00.17.13:161][302]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_Start.BP_Start]
+[2024.11.15-00.17.13:161][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_Start]
+[2024.11.15-00.17.13:161][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_Start" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Content/UI/BP_Start.uasset" SILENT=true
+[2024.11.15-00.17.13:170][302]LogSavePackage: Moving output files for package: /Game/UI/BP_Start
+[2024.11.15-00.17.13:171][302]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Saved/BP_StartD99889664CB0FFE898FC92AE3B8CCE50.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Content/UI/BP_Start.uasset'
+[2024.11.15-00.17.13:184][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.088 ms
+[2024.11.15-00.17.13:262][302]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.15-00.17.13:262][302]LogContentValidation: Enabled validators:
+[2024.11.15-00.17.13:262][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.15-00.17.13:262][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.15-00.17.13:262][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.15-00.17.13:263][302]LogContentValidation: Display: Validating asset /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.15-00.17.13:265][302]AssetCheck: /Game/Character/BP_TopDownChar Validating asset
+[2024.11.15-00.17.13:265][302]LogContentValidation: Display: Validating asset /Game/UI/BP_Start.BP_Start
+[2024.11.15-00.17.13:265][302]AssetCheck: /Game/UI/BP_Start Validating asset
