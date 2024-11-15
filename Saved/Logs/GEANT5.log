@@ -1345,3 +1345,111 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.15-01.48.16:405][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.11.15-01.48.16:405][524]LogContentValidation: Display: Validating asset /Game/UI/BP_Start.BP_Start
 [2024.11.15-01.48.16:406][524]AssetCheck: /Game/UI/BP_Start Validating asset
+[2024.11.15-01.52.16:075][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2831.737549
+[2024.11.15-01.52.16:158][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-01.52.16:158][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2831.804932, Update Interval: 354.715424
+[2024.11.15-01.56.03:458][354]LogInterchangeEngine: [Pending] Importing
+[2024.11.15-01.56.03:458][354]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/antho/Downloads/geant5updated-01.png]
+[2024.11.15-01.56.03:500][354]LogInterchangeEngine: [Pending] Importing
+[2024.11.15-01.56.03:518][355]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.11.15-01.56.03:802][355]LogTexture: Display: Building textures: /Game/UI/UI_Assets/geant5updated-01.geant5updated-01 (BGRA8, 2683x1373 x1x1x1) (Required Memory Estimate: 107.797749 MB), EncodeSpeed: Fast
+[2024.11.15-01.56.04:121][356]LogInterchangeEngine: Display: Interchange import completed [C:/Users/antho/Downloads/geant5updated-01.png]
+[2024.11.15-01.56.04:131][356]LogInterchangeEngine: [Success] Import Done
+[2024.11.15-01.56.04:231][356]LogInterchangeEngine: [Success] Import Done
+[2024.11.15-01.57.24:978][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.11.15-01.58.17:134][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.11.15-01.58.17:137][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.035
+[2024.11.15-01.58.17:138][871]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_Start] ([2] browsable assets)...
+[2024.11.15-01.58.17:143][871]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_Start.BP_Start]
+[2024.11.15-01.58.17:143][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_Start]
+[2024.11.15-01.58.17:149][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BP_Start_Auto2
+[2024.11.15-01.58.17:149][871]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_Start_Auto2482162224AEFF862D2C2D2BD37913854.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/UI/BP_Start_Auto2.uasset'
+[2024.11.15-01.58.17:150][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Assets/geant5updated-01] ([1] browsable assets)...
+[2024.11.15-01.58.17:153][871]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/UI_Assets/geant5updated-01.geant5updated-01]
+[2024.11.15-01.58.17:153][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Assets/geant5updated-01]
+[2024.11.15-01.58.17:171][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Assets/geant5updated-01_Auto2
+[2024.11.15-01.58.17:171][871]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/geant5updated-01_Auto232D24FA546D6DCF34DD55F896767F705.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/UI/UI_Assets/geant5updated-01_Auto2.uasset'
+[2024.11.15-01.58.17:172][871]LogFileHelpers: Auto-saving content packages took 0.035
+[2024.11.15-01.58.52:123][709]LogInterchangeEngine: [Pending] Importing
+[2024.11.15-01.58.52:123][709]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/antho/Downloads/geant5final-01.png]
+[2024.11.15-01.58.52:171][709]LogInterchangeEngine: [Pending] Importing
+[2024.11.15-01.58.52:196][710]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.11.15-01.58.52:464][710]LogTexture: Display: Building textures: /Game/UI/UI_Assets/geant5final-01.geant5final-01 (BGRA8, 2753x1416 x1x1x1) (Required Memory Estimate: 114.070709 MB), EncodeSpeed: Fast
+[2024.11.15-01.58.52:524][710]LogInterchangeEngine: Display: Interchange import completed [C:/Users/antho/Downloads/geant5final-01.png]
+[2024.11.15-01.58.52:535][710]LogInterchangeEngine: [Success] Import Done
+[2024.11.15-01.58.52:567][710]LogInterchangeEngine: [Success] Import Done
+[2024.11.15-01.58.59:030][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3234.690186
+[2024.11.15-01.58.59:133][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-01.58.59:133][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3234.772705, Update Interval: 336.766876
+[2024.11.15-01.59.01:585][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: ================================================
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Total job queries 216, among them cache hits 34 (15.74%), DDC hits 141 (65.28%), Duplicates 4 (1.85%)
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Tracking 178 distinct input hashes that result in 155 distinct outputs (87.08%)
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: RAM used: 5.46 MiB of 768.00 MiB budget. Usage: 0.71%
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Shaders Compiled: 37
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Average time worker was idle: 189.74 s
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Job execution time: average 1.41 s, max 4.25 s
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 4.31
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Shader code size: average 36.325 KiB, min 27.684 KiB, max 88.953 KiB
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.93 s
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.40%
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Average processing rate: 1.48 jobs/sec
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Total thread time: 30.312 s
+[2024.11.15-01.59.09:968][549]LogShaderCompilers: Display: Total thread preprocess time: 5.92 s
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display: Percentage time preprocessing: 19.53%
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 4.15 sec, max 4.15 sec, min 4.15 sec)
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.88 sec, max 1.17 sec, min 0.77 sec)
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.65 sec, max 0.69 sec, min 0.61 sec)
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    9 times, average 0.64 sec, max 0.90 sec, min 0.57 sec)
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.57 sec, max 0.72 sec, min 0.45 sec)
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.60% of total time (compiled   14 times, average 0.88 sec, max 1.17 sec, min 0.77 sec)
+[2024.11.15-01.59.09:969][549]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 19.06% of total time (compiled    9 times, average 0.64 sec, max 0.90 sec, min 0.57 sec)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.70% of total time (compiled    1 times, average 4.15 sec, max 4.15 sec, min 4.15 sec)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.99% of total time (compiled    6 times, average 0.50 sec, max 0.58 sec, min 0.45 sec)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.33% of total time (compiled    5 times, average 0.57 sec, max 0.72 sec, min 0.45 sec)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: === Material stats ===
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: Materials Translated:    116
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: Material Translation Only: 0.06 s (38%)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: Material Cache Hits: 20 (17%)
+[2024.11.15-01.59.09:970][549]LogShaderCompilers: Display: ================================================
+[2024.11.15-01.59.57:432][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.11.15-02.00.59:363][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.11.15-02.00.59:372][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-02.00.59:428][747]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_Start] ([2] browsable assets)...
+[2024.11.15-02.00.59:431][747]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_Start.BP_Start]
+[2024.11.15-02.00.59:431][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_Start]
+[2024.11.15-02.00.59:431][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_Start" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_Start.uasset" SILENT=true
+[2024.11.15-02.00.59:438][747]LogSavePackage: Moving output files for package: /Game/UI/BP_Start
+[2024.11.15-02.00.59:438][747]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_Start7317391A42CFE106BF1471B9EAC37DB3.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_Start.uasset'
+[2024.11.15-02.00.59:441][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Assets/geant5updated-01] ([1] browsable assets)...
+[2024.11.15-02.00.59:441][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Assets/geant5updated-01]
+[2024.11.15-02.00.59:508][747]LogSavePackage: Moving output files for package: /Game/UI/UI_Assets/geant5updated-01
+[2024.11.15-02.00.59:508][747]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/geant5updated-01AD1A3B31468F28C6CDA80A933C7B67BA.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/UI_Assets/geant5updated-01.uasset'
+[2024.11.15-02.00.59:515][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Assets/geant5final-01] ([1] browsable assets)...
+[2024.11.15-02.00.59:520][747]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/UI_Assets/geant5final-01.geant5final-01]
+[2024.11.15-02.00.59:520][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Assets/geant5final-01]
+[2024.11.15-02.00.59:588][747]LogSavePackage: Moving output files for package: /Game/UI/UI_Assets/geant5final-01
+[2024.11.15-02.00.59:590][747]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/geant5final-01AA1F0399418CD64B58E1C48F791FA149.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/UI_Assets/geant5final-01.uasset'
+[2024.11.15-02.00.59:603][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.933 ms (total: 592.817 ms)
+[2024.11.15-02.00.59:680][747]LogContentValidation: Display: Starting to validate 3 assets
+[2024.11.15-02.00.59:680][747]LogContentValidation: Enabled validators:
+[2024.11.15-02.00.59:680][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.15-02.00.59:680][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.15-02.00.59:680][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.15-02.00.59:680][747]LogContentValidation: Display: Validating asset /Game/UI/BP_Start.BP_Start
+[2024.11.15-02.00.59:681][747]AssetCheck: /Game/UI/BP_Start Validating asset
+[2024.11.15-02.00.59:681][747]LogContentValidation: Display: Validating asset /Game/UI/UI_Assets/geant5updated-01.geant5updated-01
+[2024.11.15-02.00.59:681][747]AssetCheck: /Game/UI/UI_Assets/geant5updated-01 Validating asset
+[2024.11.15-02.00.59:681][747]LogContentValidation: Display: Validating asset /Game/UI/UI_Assets/geant5final-01.geant5final-01
+[2024.11.15-02.00.59:681][747]AssetCheck: /Game/UI/UI_Assets/geant5final-01 Validating asset
