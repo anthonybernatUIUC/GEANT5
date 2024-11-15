@@ -1299,3 +1299,26 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.15-01.37.17:560][160]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Assets/spacebackground_Auto1
 [2024.11.15-01.37.17:560][160]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/spacebackground_Auto19EC8F1554B21F98B4EFFFA93CC4F6394.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/UI/UI_Assets/spacebackground_Auto1.uasset'
 [2024.11.15-01.37.17:562][160]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.11.15-01.37.50:380][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.11.15-01.37.55:465][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.11.15-01.37.55:473][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-01.37.55:551][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_Class] ([2] browsable assets)...
+[2024.11.15-01.37.55:556][448]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_Class.BP_Class]
+[2024.11.15-01.37.55:556][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_Class]
+[2024.11.15-01.37.55:556][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_Class" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_Class.uasset" SILENT=true
+[2024.11.15-01.37.55:563][448]LogSavePackage: Moving output files for package: /Game/UI/BP_Class
+[2024.11.15-01.37.55:565][448]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_ClassB2E27FD9402FD6E4A7807E90A67879B7.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_Class.uasset'
+[2024.11.15-01.37.55:566][448]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Assets/spacebackground] ([1] browsable assets)...
+[2024.11.15-01.37.55:566][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Assets/spacebackground]
+[2024.11.15-01.37.55:568][448]LogSavePackage: Moving output files for package: /Game/UI/UI_Assets/spacebackground
+[2024.11.15-01.37.55:568][448]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/spacebackground3E020EB640149FE52A17A4B2B5DC4449.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/UI_Assets/spacebackground.uasset'
+[2024.11.15-01.37.55:578][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.291 ms (total: 247.628 ms)
+[2024.11.15-01.37.55:668][448]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.15-01.37.55:668][448]LogContentValidation: Enabled validators:
+[2024.11.15-01.37.55:668][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.15-01.37.55:668][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.15-01.37.55:668][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.15-01.37.55:668][448]LogContentValidation: Display: Validating asset /Game/UI/BP_Class.BP_Class
+[2024.11.15-01.37.55:669][448]AssetCheck: /Game/UI/BP_Class Validating asset
+[2024.11.15-01.37.55:669][448]LogContentValidation: Display: Validating asset /Game/UI/UI_Assets/spacebackground.spacebackground
+[2024.11.15-01.37.55:669][448]AssetCheck: /Game/UI/UI_Assets/spacebackground Validating asset
