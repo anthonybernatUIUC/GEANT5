@@ -1322,3 +1322,26 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.15-01.37.55:669][448]AssetCheck: /Game/UI/BP_Class Validating asset
 [2024.11.15-01.37.55:669][448]LogContentValidation: Display: Validating asset /Game/UI/UI_Assets/spacebackground.spacebackground
 [2024.11.15-01.37.55:669][448]AssetCheck: /Game/UI/UI_Assets/spacebackground Validating asset
+[2024.11.15-01.39.34:205][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2069.870850
+[2024.11.15-01.39.34:289][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-01.39.34:289][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2069.937012, Update Interval: 314.760590
+[2024.11.15-01.45.25:918][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2421.567627
+[2024.11.15-01.45.25:998][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.15-01.45.25:998][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2421.631836, Update Interval: 351.347992
+[2024.11.15-01.46.55:402][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.11.15-01.48.16:211][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.11.15-01.48.16:218][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.15-01.48.16:308][524]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_Start] ([2] browsable assets)...
+[2024.11.15-01.48.16:314][524]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_Start.BP_Start]
+[2024.11.15-01.48.16:314][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_Start]
+[2024.11.15-01.48.16:314][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_Start" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_Start.uasset" SILENT=true
+[2024.11.15-01.48.16:321][524]LogSavePackage: Moving output files for package: /Game/UI/BP_Start
+[2024.11.15-01.48.16:322][524]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_StartDEDD637A4674225CF1E682829C57583D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_Start.uasset'
+[2024.11.15-01.48.16:334][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.255 ms (total: 362.883 ms)
+[2024.11.15-01.48.16:405][524]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.15-01.48.16:405][524]LogContentValidation: Enabled validators:
+[2024.11.15-01.48.16:405][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.15-01.48.16:405][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.15-01.48.16:405][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.15-01.48.16:405][524]LogContentValidation: Display: Validating asset /Game/UI/BP_Start.BP_Start
+[2024.11.15-01.48.16:406][524]AssetCheck: /Game/UI/BP_Start Validating asset
