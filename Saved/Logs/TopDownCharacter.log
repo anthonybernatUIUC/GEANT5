@@ -2665,3 +2665,17 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.14-23.44.23:558][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3607.931152
 [2024.11.14-23.44.24:558][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.14-23.44.24:558][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3608.598145, Update Interval: 333.322540
+[2024.11.14-23.50.45:611][605]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3989.987061
+[2024.11.14-23.50.46:611][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.14-23.50.46:611][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3990.652832, Update Interval: 356.584991
+[2024.11.14-23.57.18:561][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4382.937988
+[2024.11.14-23.57.19:564][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.14-23.57.19:564][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4383.604492, Update Interval: 301.221344
+[2024.11.14-23.59.32:742][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.11.14-23.59.35:734][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.11.14-23.59.35:739][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.043
+[2024.11.14-23.59.35:740][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.14-23.59.35:740][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.14-23.59.35:758][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character/BP_TopDownChar_Auto2
+[2024.11.14-23.59.35:759][126]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Saved/BP_TopDownChar_Auto2B3998D834622A369084F5184DDFF4A5C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/TopDownCharacter/Saved/Autosaves/Game/Character/BP_TopDownChar_Auto2.uasset'
+[2024.11.14-23.59.35:761][126]LogFileHelpers: Auto-saving content packages took 0.022
