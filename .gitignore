@@ -76,3 +76,5 @@ DerivedDataCache/*
 
 
 Saved/Logs/GEANT5.log
+/Saved/Logs
+*.log
