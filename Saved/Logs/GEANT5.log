@@ -1471,3 +1471,770 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.17-05.01.11:945][365]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character/BP_TopDownChar_Auto1
 [2024.11.17-05.01.11:946][365]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_TopDownChar_Auto1D69ECBA44ED3BFEFE07F6C877D28BF61.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/Character/BP_TopDownChar_Auto1.uasset'
 [2024.11.17-05.01.11:947][365]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.11.17-05.05.30:402][406]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Wave1Enemy.Wave1Enemy_C
+[2024.11.17-05.05.30:402][406]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Wave1Enemy.Wave1Enemy_C
+[2024.11.17-05.05.30:405][406]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Wave1Enemy.Wave1Enemy as actor: Wave1Enemy_C /Temp/Untitled_1.Untitled_1:PersistentLevel.Wave1Enemy_C_1
+[2024.11.17-05.05.30:407][406]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Wave1Enemy.Wave1Enemy as actor: Wave1Enemy_C /Temp/Untitled_1.Untitled_1:PersistentLevel.Wave1Enemy_C_1
+[2024.11.17-05.05.32:040][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.11.17-05.05.32:042][464]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2024.11.17-05.05.32:052][464]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Wave1Enemy.Wave1Enemy_C
+[2024.11.17-05.05.32:052][464]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/Wave1Enemy.Wave1Enemy_C
+[2024.11.17-05.05.32:058][464]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Wave1Enemy.Wave1Enemy as actor: Wave1Enemy_C /Temp/Untitled_1.Untitled_1:PersistentLevel.Wave1Enemy_C_UAID_047BCBCD58171B3002_1986875936
+[2024.11.17-05.05.32:060][464]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/Wave1Enemy.Wave1Enemy as actor: Wave1Enemy_C /Temp/Untitled_1.Untitled_1:PersistentLevel.Wave1Enemy_C_UAID_047BCBCD58171B3002_1986875936
+[2024.11.17-05.05.32:637][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 950.143188
+[2024.11.17-05.05.32:777][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.17-05.05.32:777][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 950.254639, Update Interval: 315.925171
+[2024.11.17-05.05.35:637][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.11.17-05.05.35:648][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.17-05.05.44:311][542]LogObjectTools: Deleting 1 worlds: /Game/Base.Base
+[2024.11.17-05.05.44:311][542]LogObjectTools: Currently 7 active worlds: /Temp/Untitled_1.Untitled_1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2024.11.17-05.05.44:348][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.11.17-05.05.45:988][542]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.17-05.05.49:867][542]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.17-05.05.49:912][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.2 sec
+[2024.11.17-05.05.49:930][542]LogAutomationController: Ignoring very large delta of 14.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.17-05.05.52:430][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.11.17-05.05.52:443][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.17-05.06.01:661][591]LogSlate: Window 'Message' being destroyed
+[2024.11.17-05.06.01:667][591]Message dialog closed, result: No, title: Message, text: Turkey already exists. Do you want to replace it?
+[2024.11.17-05.06.03:798][591]LogSlate: Window 'Message' being destroyed
+[2024.11.17-05.06.03:805][591]Message dialog closed, result: Cancel, title: Message, text: Base already exists. Do you want to replace it?
+[2024.11.17-05.06.04:408][591]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.17-05.06.04:448][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.0 sec (total: 26.2 sec)
+[2024.11.17-05.06.04:473][591]LogAutomationController: Ignoring very large delta of 12.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.17-05.06.09:571][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.11.17-05.06.12:106][732]LogSlate: Window 'Save Content' being destroyed
+[2024.11.17-05.06.12:124][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.17-05.06.18:074][732]LogSlate: Window 'Message' being destroyed
+[2024.11.17-05.06.18:080][732]Message dialog closed, result: Yes, title: Message, text: Turkey already exists. Do you want to replace it?
+[2024.11.17-05.06.18:080][732]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.17-05.06.18:111][732]SourceControl: Revision control is disabled
+[2024.11.17-05.06.18:419][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.17-05.06.18:425][732]LogSavePackage: Moving output files for package: /Game/Turkey
+[2024.11.17-05.06.18:426][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TurkeyCB979E1845BE1AB9D7E02B8C1AF946D3.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Turkey.umap'
+[2024.11.17-05.06.18:474][732]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Turkey_HLOD0_Instancing
+/Game/__ExternalActors__/Turkey/D/89/TFK7GJJ6F4F4QS8UYIUH5W
+/Game/__ExternalObjects__/Turkey/3/QP/IF3BAGPUCGIK30U6P85YS6
+/Game/__ExternalObjects__/Turkey/C/UR/ZF2VAZWIJ86XOU6KVH7T3R
+/Game/__ExternalObjects__/Turkey/6/RA/EIO2FK9YTHB9KB65XARWPU
+/Game/__ExternalObjects__/Turkey/6/7K/0BJ6T40UNI93CD2KMV926U
+/Game/__ExternalObjects__/Turkey/7/HY/7PH5X40H6BU2OCF4BLEFCQ
+/Game/__ExternalObjects__/Turkey/9/ZT/CUKMEQLJZY9Z50AG90L31L
+/Game/__ExternalActors__/Turkey/1/KY/Y3QSDXK6GE3S7AV8VVJMD9
+/Game/__ExternalActors__/Turkey/8/RH/35ANNSA3Q2ILJGMJI9AUK3
+/Game/__ExternalActors__/Turkey/E/BM/Z95ZSDWCEYDSYOIE1P72HW
+/Game/__ExternalActors__/Turkey/0/QR/INV83E8AIJ3FRSOXKBE1B4
+/Game/__ExternalActors__/Turkey/2/3W/TMHE8XB758Q91SC29RWFBJ
+/Game/__ExternalActors__/Turkey/B/RO/JKOGNABC9T2UDKBJS1448C
+/Game/__ExternalActors__/Turkey/D/XC/IIJYA0BPKNYHX4MVKKLGTY
+/Game/__ExternalActors__/Turkey/6/6K/8E8Q8RHIV3FHL3M7IMQ4DJ
+/Game/__ExternalActors__/Turkey/B/3G/XASG3U9Z3CFZX7VNUNTHIW
+/Game/__ExternalActors__/Turkey/5/CG/UJCJSNSKJV3HOJRE8HMPFZ
+/Game/__ExternalActors__/Turkey/E/5H/6IHNFCCOM5EKRC6YMDU1CB
+/Game/__ExternalActors__/Turkey/0/TU/7ME00407X48UI9Y5Y6D8B2
+/Game/__ExternalActors__/Turkey/B/9D/526ZAKAOS4FSLSYZW1FISZ
+/Game/__ExternalActors__/Turkey/B/I2/ITXJ74YYF9SSD0P5P0OPGB
+/Game/__ExternalActors__/Turkey/6/D8/KHZ2CU1TT0YG89G5IMQM8E
+/Game/__ExternalActors__/Turkey/3/BK/Y5OFEL0J7FLO0NGKZBLRME
+/Game/__ExternalActors__/Turkey/D/HC/8F47MA9FR88A3LSANRBBKF
+/Game/__ExternalActors__/Turkey/8/OR/3M3008O7B6A5PVN2H851JB
+/Game/__ExternalActors__/Turkey/6/AH/WQR51UILGSVVQ9K54P5OGA
+/Game/__ExternalActors__/Turkey/A/TP/2WFNQAJM80UJ48LQSJPR2N
+/Game/__ExternalActors__/Turkey/9/LH/A600J6OWRERP9CEDEWB0RU
+/Game/__ExternalActors__/Turkey/4/AN/WWCO30J3SHT66LG2RUDIW7
+/Game/__ExternalActors__/Turkey/C/0L/BAYN4U2DQCHGP1EIULWAWR
+/Game/__ExternalActors__/Turkey/5/YD/KI15UMBTJS3M16H4ISC1R8
+/Game/__ExternalActors__/Turkey/8/UW/3C3PED77C3UQOXC8WN9TXT
+/Game/__ExternalActors__/Turkey/2/6N/2V5BOXF2VOFX4Y75P6C9G1
+/Game/__ExternalActors__/Turkey/7/47/U62RBFPTM0XZC18OGP9761
+/Game/__ExternalActors__/Turkey/3/ZM/Q52848G27J9IW1QMYKEP01
+/Game/__ExternalActors__/Turkey/A/HC/I8TT2XFVXIN9R1LSGKHS7H
+/Game/__ExternalActors__/Turkey/4/UC/N3Z2UI9WY2V9IBNKOGPCXI
+/Game/__ExternalActors__/Turkey/1/P2/OJD520FQVGFY0TE6YPYFNU
+/Game/__ExternalActors__/Turkey/9/ZY/ZOGTHR371YQ2TPTTSHKAD6
+/Game/__ExternalActors__/Turkey/A/X1/L16306971QG8ZL3Q8CA9OR
+/Game/__ExternalActors__/Turkey/E/2S/7GXTQK9HI33FZT6CHSGWVJ
+/Game/__ExternalActors__/Turkey/1/YI/IPH79WOGOHMVXXSBFAIYU7
+/Game/__ExternalActors__/Turkey/2/56/S22P7NKTKFUH1VLYC91S5V
+/Game/__ExternalActors__/Turkey/9/T2/P1C2LRZN39STRQ1NWB5IG2
+/Game/__ExternalActors__/Turkey/3/RN/AL0CDVY5EXRSF3JD6L1K3E
+/Game/__ExternalActors__/Turkey/9/7X/GXZOK3K7UEVY2AH3TC90S2
+/Game/__ExternalActors__/Turkey/C/X8/EER42L8B7ADP9N0V2HUJAS
+/Game/__ExternalActors__/Turkey/1/RX/6HM9P21U1I8J4XXQYPM53Q
+/Game/__ExternalActors__/Turkey/7/0A/TJ1UISV8H8FM20UHD48RH0
+/Game/__ExternalActors__/Turkey/3/C7/DQQ70K5ZRS8UFIZN23HN8N
+/Game/__ExternalActors__/Turkey/5/MX/1OU6DOFYCZVJ65UYQ5CPIO
+/Game/__ExternalActors__/Turkey/2/F5/1V9GLF9A8AYK585WIL4NIO
+/Game/__ExternalActors__/Turkey/3/33/ZGS4I8EH44Z1OHWQF6XS7N
+/Game/__ExternalActors__/Turkey/C/W8/1M59OQP06ESMJQ3FUIQDRM
+/Game/__ExternalActors__/Turkey/E/VI/HQ8R3QBM4HUTKGG3DE46PB
+/Game/__ExternalActors__/Turkey/5/XF/1HE202D77C39AJYMRR2YTU
+/Game/__ExternalActors__/Turkey/3/IN/Z6XFQK4A0JY2YDP1ZG1043
+/Game/__ExternalActors__/Turkey/3/RJ/NFYA2VYB685GPHQI1JMO81
+/Game/__ExternalActors__/Turkey/6/Z5/KEE3YKQEBFX03F2DDMLN5I
+/Game/__ExternalActors__/Turkey/D/0X/AD7O2JT31IJOWHWUY3Y14V
+/Game/__ExternalActors__/Turkey/2/J0/HI6A8KGJE9S8SQA9DL4C0Q
+/Game/__ExternalActors__/Turkey/D/1D/GRYJEP1WRL6EAMG785M82Z
+/Game/__ExternalActors__/Turkey/2/M0/KORYWH89ARTXWUXMMIQ0AE
+/Game/__ExternalActors__/Turkey/0/8S/TZE1PWR9E1O4XUQ6ZTEE00
+/Game/__ExternalActors__/Turkey/E/0W/29NGIPBJEYAU3PENHJHWXG
+/Game/__ExternalActors__/Turkey/7/3C/W3FFM6O0MIQLNV1KTFBHG7
+/Game/__ExternalActors__/Turkey/8/W6/I65XLMFVU41K3CS8HOPTOE
+/Game/__ExternalActors__/Turkey/3/X4/YTPVPFD57EDO762CU3BAZH
+/Game/__ExternalActors__/Turkey/A/4Z/ZBFXM91Y65SNIYGEC1HMO1
+/Game/__ExternalActors__/Turkey/2/BZ/UHUME6337K3HT06HHP2M2T
+/Game/__ExternalActors__/Turkey/0/QQ/ENHLZ0SV4URGVV30843IFO
+/Game/__ExternalActors__/Turkey/9/BQ/67WJWPDR3HOTH6APP25KTZ
+/Game/__ExternalActors__/Turkey/C/5E/ZMU7DICB0Z75QBLSXK932V
+/Game/__ExternalActors__/Turkey/9/R0/JJ9284SZADOF4QIGXKDS3M
+/Game/__ExternalActors__/Turkey/6/Y2/PJC0VUFPS5YEDI1XW27MFL
+/Game/__ExternalActors__/Turkey/D/C6/FXD64SF4VVWKEY0X4JN1ZO
+/Game/__ExternalActors__/Turkey/5/K6/HM3NO2VZNTGLWFB2BABB8W
+/Game/__ExternalActors__/Turkey/8/09/OP8H42HZEJXNTZ112P8S72
+/Game/__ExternalActors__/Turkey/6/NZ/DZH8Y8PME1NUYRQK33LXHS
+/Game/__ExternalActors__/Turkey/E/I5/VQ47TMS27DQMSR2ELK5DDZ
+/Game/__ExternalActors__/Turkey/4/5E/H0NU2UNXW69PSWZXYORWXA
+/Game/__ExternalActors__/Turkey/4/N3/NQM8MZ69TDC558IXCSQB6L
+/Game/__ExternalActors__/Turkey/D/UF/5W9XIFK7KI5O1SSLT3T2FH
+/Game/__ExternalActors__/Turkey/9/A0/0NL5FF9EX24GJUEXMI65SC
+/Game/__ExternalActors__/Turkey/F/29/0V89KTJQQQBV8VEW0IQD4W
+/Game/__ExternalActors__/Turkey/1/TL/C3WC4TUYHB1LSCWXFP64MS
+/Game/__ExternalActors__/Turkey/D/H1/PDWUN0Q2SPERAIBKV2KSKZ
+/Game/__ExternalActors__/Turkey/0/9X/MXB75JHCTA616CT2D1YST0
+/Game/__ExternalActors__/Turkey/5/7Z/ZAV7HDXH50Z3BD2RPZTEQ3
+/Game/__ExternalActors__/Turkey/A/SJ/8DF0R5WF0A6R0GKURB3DP8
+/Game/__ExternalActors__/Turkey/D/SH/Y2Q7MAPQBFVAZT2JBW4B2N
+/Game/__ExternalActors__/Turkey/7/UH/4OXLJI1OSR1CN55JYVN3LN
+/Game/__ExternalActors__/Turkey/6/J7/Z5O3L2P4ZPTNIX5WWF7B2D
+/Game/__ExternalActors__/Turkey/E/M4/TKWSNL87MFPH2YHUTQ0FFQ
+/Game/__ExternalActors__/Turkey/1/8D/I0A02J1O6WVGNIY3F6F4QU
+/Game/__ExternalActors__/Turkey/A/1Q/6RG3AWWAKD3KFJG17CGQRY
+/Game/__ExternalActors__/Turkey/6/KO/CZF5XPW2NYM8NCK49X620W
+/Game/__ExternalActors__/Turkey/D/VC/PNZ4RO8IFIIOPFQPS3LYAJ
+/Game/__ExternalActors__/Turkey/9/B9/UCWALTBTFB5UYGFD2G0UIZ
+/Game/__ExternalActors__/Turkey/4/K7/287D34UJ6XWMBYVPPZQ8P4
+/Game/__ExternalActors__/Turkey/6/HD/IBNZZBZ2VILSIAFLNQR9F3
+/Game/__ExternalActors__/Turkey/B/OO/3C3R3YGTRME1CDN3R8EGTM
+/Game/__ExternalActors__/Turkey/4/GH/5UCXXXJUAZIPUDRT3JWLXY
+/Game/__ExternalActors__/Turkey/E/9U/YMB06DG39KA3D0UB6JHO1Q
+/Game/__ExternalActors__/Turkey/1/47/YE237ANUM7E22WCF94QE79
+/Game/__ExternalActors__/Turkey/D/2G/2TG2Q44SUSRBC5FK2CCADK
+/Game/__ExternalActors__/Turkey/B/U2/DRCSKES83WHA9C2EMKAUMU
+/Game/__ExternalActors__/Turkey/A/XL/TRR3CAVIZJ0VKN2X3MZDIA
+/Game/__ExternalActors__/Turkey/4/WL/ZQQ9M1Z637VBJ9S0XMO6ZW
+/Game/__ExternalActors__/Turkey/5/29/XF4A7W9NVX9M78ACXRPRL8
+/Game/__ExternalActors__/Turkey/E/4Q/IKE83RMR9ESPN76J967Z7K
+/Game/__ExternalActors__/Turkey/A/CP/I8G5LI1GRTKV1OYA0NZ8O3
+/Game/__ExternalActors__/Turkey/1/A2/7YX4PQ92IR4E1ZH7WMB46S
+/Game/__ExternalActors__/Turkey/3/NZ/RPKMPSZVI28OO6A1HF40FY
+/Game/__ExternalActors__/Turkey/E/CG/ON736OVLD9T2NEDKW3TJ8E
+/Game/__ExternalActors__/Turkey/0/W7/NHL7BF4XQ1C5KAY48N2K9W
+/Game/__ExternalActors__/Turkey/E/2U/7IRSI161BFZFFZB2K4BQT0
+/Game/__ExternalActors__/Turkey/2/AJ/7LOX8LEWUHSWTES3MXX5MK
+/Game/__ExternalActors__/Turkey/A/GQ/KQ0RX78G1NEQASJSXFV7Q5
+/Game/__ExternalActors__/Turkey/9/F3/W5PKECR6B36DQ3Z6D80ZVD
+/Game/__ExternalActors__/Turkey/0/UB/500OEJHNJO6H5AKJH0J0F9
+/Game/__ExternalActors__/Turkey/E/NE/1OJOSDENV3YLZM2VUIZIR7
+/Game/__ExternalActors__/Turkey/8/0F/URCA1UAW6G4GVRN1UA2END
+/Game/__ExternalActors__/Turkey/1/54/XRMPNTWB2FI4O1R4BLOWZS
+/Game/__ExternalActors__/Turkey/5/3S/WIP3XT223AYR3Y9WBL6JFF
+/Game/__ExternalActors__/Turkey/1/9A/OZMQNORZFVID9PJ2TNN45O
+/Game/__ExternalActors__/Turkey/7/YP/WM2A5C8QO1AW6SH27N0ATK
+/Game/__ExternalActors__/Turkey/D/RE/6C7HW86EKWEBYXRQ57X7YG
+/Game/__ExternalActors__/Turkey/D/YN/M6KH92NGPEJF3XN128Z6PK
+/Game/__ExternalActors__/Turkey/D/U4/Q5ZE898DP4RL8SXN5E8YYK
+/Game/__ExternalActors__/Turkey/6/GQ/KGQ2QTQD6AMXH7287ENNS1
+/Game/__ExternalActors__/Turkey/8/MR/XFHMV3O7PXXWSO2HX591JA
+/Game/__ExternalActors__/Turkey/5/VC/1UQBHYAPVVU426CVDR7AJ8
+/Game/__ExternalActors__/Turkey/2/SF/2GHC1DP8OU6PIMKZ0UQJVS
+/Game/__ExternalActors__/Turkey/E/VB/E54RR7F203FLJZ00KQJ96R
+/Game/__ExternalActors__/Turkey/1/V6/3JRV7F459VNZI3N8Q0COAC
+/Game/__ExternalActors__/Turkey/A/1F/5GSYSFM06OGZ9VYJ9LIV4C
+/Game/__ExternalActors__/Turkey/4/CH/H2HI0QNVLYXQ72Q3I3DCKA
+/Game/__ExternalActors__/Turkey/1/6S/BTI8P4E112FQTGNKL9P9QF
+/Game/__ExternalActors__/Turkey/B/VJ/FLAB0BLNPG5RKSOXRMST49
+/Game/__ExternalActors__/Turkey/4/QW/LGSJZUZA5CH4FP531JRZ5E
+/Game/__ExternalActors__/Turkey/7/ST/Q9JUI0HAJHVTGJ0ARYLGXO
+/Game/__ExternalActors__/Turkey/B/GK/QH88ESGFAQQ00QGB5JVN0Z
+/Game/__ExternalActors__/Turkey/5/VI/X69O3UVIB7UCT669X7YG3W
+/Game/__ExternalActors__/Turkey/6/N6/UCRVII9D40NY7L6HGGFWIM
+/Game/__ExternalActors__/Turkey/C/O5/XE57G3X4KXMV7D3FZ3TCEQ
+[2024.11.17-05.06.18:474][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.17-05.06.18:475][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Turkey_HLOD0_Instancing] ([1] browsable assets)...
+[2024.11.17-05.06.18:475][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Turkey_HLOD0_Instancing]
+[2024.11.17-05.06.18:476][732]LogSavePackage: Moving output files for package: /Game/Turkey_HLOD0_Instancing
+[2024.11.17-05.06.18:477][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Turkey_HLOD0_Instancing9075A04E403446906F14579E0AD1D521.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Turkey_HLOD0_Instancing.uasset'
+[2024.11.17-05.06.18:480][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/89/TFK7GJJ6F4F4QS8UYIUH5W
+[2024.11.17-05.06.18:480][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TFK7GJJ6F4F4QS8UYIUH5W41FDD899417327045AA52FA62E0A6FEE.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/89/TFK7GJJ6F4F4QS8UYIUH5W.uasset'
+[2024.11.17-05.06.18:483][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Turkey/3/QP/IF3BAGPUCGIK30U6P85YS6] ([1] browsable assets)...
+[2024.11.17-05.06.18:483][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Turkey/3/QP/IF3BAGPUCGIK30U6P85YS6]
+[2024.11.17-05.06.18:484][732]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Turkey/3/QP/IF3BAGPUCGIK30U6P85YS6
+[2024.11.17-05.06.18:484][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/IF3BAGPUCGIK30U6P85YS63D88A596458A75F9696E4E9B902ABA8C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalObjects__/Turkey/3/QP/IF3BAGPUCGIK30U6P85YS6.uasset'
+[2024.11.17-05.06.18:487][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Turkey/C/UR/ZF2VAZWIJ86XOU6KVH7T3R] ([1] browsable assets)...
+[2024.11.17-05.06.18:487][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Turkey/C/UR/ZF2VAZWIJ86XOU6KVH7T3R]
+[2024.11.17-05.06.18:488][732]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Turkey/C/UR/ZF2VAZWIJ86XOU6KVH7T3R
+[2024.11.17-05.06.18:488][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZF2VAZWIJ86XOU6KVH7T3R46788C7D4EAD44592FBFDAA1701FCEF8.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalObjects__/Turkey/C/UR/ZF2VAZWIJ86XOU6KVH7T3R.uasset'
+[2024.11.17-05.06.18:491][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Turkey/6/RA/EIO2FK9YTHB9KB65XARWPU] ([1] browsable assets)...
+[2024.11.17-05.06.18:491][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Turkey/6/RA/EIO2FK9YTHB9KB65XARWPU]
+[2024.11.17-05.06.18:491][732]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Turkey/6/RA/EIO2FK9YTHB9KB65XARWPU
+[2024.11.17-05.06.18:491][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/EIO2FK9YTHB9KB65XARWPU49102D8D4354A71816B7A59C9B71A41A.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalObjects__/Turkey/6/RA/EIO2FK9YTHB9KB65XARWPU.uasset'
+[2024.11.17-05.06.18:493][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Turkey/6/7K/0BJ6T40UNI93CD2KMV926U] ([1] browsable assets)...
+[2024.11.17-05.06.18:493][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Turkey/6/7K/0BJ6T40UNI93CD2KMV926U]
+[2024.11.17-05.06.18:495][732]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Turkey/6/7K/0BJ6T40UNI93CD2KMV926U
+[2024.11.17-05.06.18:495][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/0BJ6T40UNI93CD2KMV926U0820FC394498186D9699708A51A112E7.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalObjects__/Turkey/6/7K/0BJ6T40UNI93CD2KMV926U.uasset'
+[2024.11.17-05.06.18:497][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Turkey/7/HY/7PH5X40H6BU2OCF4BLEFCQ] ([1] browsable assets)...
+[2024.11.17-05.06.18:497][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Turkey/7/HY/7PH5X40H6BU2OCF4BLEFCQ]
+[2024.11.17-05.06.18:498][732]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Turkey/7/HY/7PH5X40H6BU2OCF4BLEFCQ
+[2024.11.17-05.06.18:498][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/7PH5X40H6BU2OCF4BLEFCQE29534E24F7745A2914AD5888ECB5178.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalObjects__/Turkey/7/HY/7PH5X40H6BU2OCF4BLEFCQ.uasset'
+[2024.11.17-05.06.18:501][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Turkey/9/ZT/CUKMEQLJZY9Z50AG90L31L] ([1] browsable assets)...
+[2024.11.17-05.06.18:502][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Turkey/9/ZT/CUKMEQLJZY9Z50AG90L31L]
+[2024.11.17-05.06.18:503][732]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Turkey/9/ZT/CUKMEQLJZY9Z50AG90L31L
+[2024.11.17-05.06.18:503][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/CUKMEQLJZY9Z50AG90L31LD84B132D462E2020F67350BD57AB79D2.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalObjects__/Turkey/9/ZT/CUKMEQLJZY9Z50AG90L31L.uasset'
+[2024.11.17-05.06.18:508][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/KY/Y3QSDXK6GE3S7AV8VVJMD9
+[2024.11.17-05.06.18:508][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Y3QSDXK6GE3S7AV8VVJMD9C87370F348D21F9C25AD118C733495DD.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/KY/Y3QSDXK6GE3S7AV8VVJMD9.uasset'
+[2024.11.17-05.06.18:514][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/RH/35ANNSA3Q2ILJGMJI9AUK3
+[2024.11.17-05.06.18:514][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/35ANNSA3Q2ILJGMJI9AUK3599ED9E14B352A831A8E33A69EF9AA89.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/RH/35ANNSA3Q2ILJGMJI9AUK3.uasset'
+[2024.11.17-05.06.18:518][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/BM/Z95ZSDWCEYDSYOIE1P72HW
+[2024.11.17-05.06.18:518][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Z95ZSDWCEYDSYOIE1P72HWB8EDBFF146EEC6ED826D30AD3FAAF090.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/BM/Z95ZSDWCEYDSYOIE1P72HW.uasset'
+[2024.11.17-05.06.18:523][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/QR/INV83E8AIJ3FRSOXKBE1B4
+[2024.11.17-05.06.18:523][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/INV83E8AIJ3FRSOXKBE1B42CEB31644971DD4E147CEFAE1D5B3C01.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/QR/INV83E8AIJ3FRSOXKBE1B4.uasset'
+[2024.11.17-05.06.18:527][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/3W/TMHE8XB758Q91SC29RWFBJ
+[2024.11.17-05.06.18:527][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TMHE8XB758Q91SC29RWFBJ299C27FE4DEC4FD66F7ADAB4EA85C726.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/3W/TMHE8XB758Q91SC29RWFBJ.uasset'
+[2024.11.17-05.06.18:533][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/RO/JKOGNABC9T2UDKBJS1448C
+[2024.11.17-05.06.18:533][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/JKOGNABC9T2UDKBJS1448C4D7E4AFA4A9ABA9230D88CB559B5C327.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/RO/JKOGNABC9T2UDKBJS1448C.uasset'
+[2024.11.17-05.06.18:543][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/XC/IIJYA0BPKNYHX4MVKKLGTY
+[2024.11.17-05.06.18:543][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/IIJYA0BPKNYHX4MVKKLGTYCC1DC77C4CB40698260A44B3B478045F.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/XC/IIJYA0BPKNYHX4MVKKLGTY.uasset'
+[2024.11.17-05.06.18:546][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/6K/8E8Q8RHIV3FHL3M7IMQ4DJ
+[2024.11.17-05.06.18:546][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/8E8Q8RHIV3FHL3M7IMQ4DJ1E8B1AC9428DAD0A10866288052872AC.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/6K/8E8Q8RHIV3FHL3M7IMQ4DJ.uasset'
+[2024.11.17-05.06.18:551][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/3G/XASG3U9Z3CFZX7VNUNTHIW
+[2024.11.17-05.06.18:551][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/XASG3U9Z3CFZX7VNUNTHIW1354AE9A4F0568C9BDA9C2A29B634D4D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/3G/XASG3U9Z3CFZX7VNUNTHIW.uasset'
+[2024.11.17-05.06.18:557][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.LandscapeComponent_86 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=-0.547))
+[2024.11.17-05.06.18:561][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.LandscapeComponent_87 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.11.17-05.06.18:573][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/CG/UJCJSNSKJV3HOJRE8HMPFZ
+[2024.11.17-05.06.18:573][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/UJCJSNSKJV3HOJRE8HMPFZ209875F04DAD544891729EBA965BF40D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/CG/UJCJSNSKJV3HOJRE8HMPFZ.uasset'
+[2024.11.17-05.06.18:581][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0.LandscapeComponent_167 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.11.17-05.06.18:594][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/5H/6IHNFCCOM5EKRC6YMDU1CB
+[2024.11.17-05.06.18:595][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/6IHNFCCOM5EKRC6YMDU1CBA4260C62447C71FC4BAEE8A972E65C5E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/5H/6IHNFCCOM5EKRC6YMDU1CB.uasset'
+[2024.11.17-05.06.18:601][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0.LandscapeComponent_168 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.977))
+[2024.11.17-05.06.18:604][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0.LandscapeComponent_169 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=-0.242))
+[2024.11.17-05.06.18:618][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/TU/7ME00407X48UI9Y5Y6D8B2
+[2024.11.17-05.06.18:618][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/7ME00407X48UI9Y5Y6D8B2603B4BBF471BEA95017FB1983F49DDAC.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/TU/7ME00407X48UI9Y5Y6D8B2.uasset'
+[2024.11.17-05.06.18:641][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/9D/526ZAKAOS4FSLSYZW1FISZ
+[2024.11.17-05.06.18:641][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/526ZAKAOS4FSLSYZW1FISZD2FDC72148C0A55E96030E99187616E4.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/9D/526ZAKAOS4FSLSYZW1FISZ.uasset'
+[2024.11.17-05.06.18:666][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/I2/ITXJ74YYF9SSD0P5P0OPGB
+[2024.11.17-05.06.18:666][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ITXJ74YYF9SSD0P5P0OPGB9465F0D24B063E116B5DB88751FD64E9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/I2/ITXJ74YYF9SSD0P5P0OPGB.uasset'
+[2024.11.17-05.06.18:689][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/D8/KHZ2CU1TT0YG89G5IMQM8E
+[2024.11.17-05.06.18:689][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/KHZ2CU1TT0YG89G5IMQM8EA90DEB4A471292A9AA9775968E73DCEF.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/D8/KHZ2CU1TT0YG89G5IMQM8E.uasset'
+[2024.11.17-05.06.18:713][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/BK/Y5OFEL0J7FLO0NGKZBLRME
+[2024.11.17-05.06.18:713][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Y5OFEL0J7FLO0NGKZBLRME5C784ED548FA096B790D559D6CE3E80E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/BK/Y5OFEL0J7FLO0NGKZBLRME.uasset'
+[2024.11.17-05.06.18:740][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/HC/8F47MA9FR88A3LSANRBBKF
+[2024.11.17-05.06.18:740][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/8F47MA9FR88A3LSANRBBKF4D7E11E6405485B9C378AA980D9D0E1A.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/HC/8F47MA9FR88A3LSANRBBKF.uasset'
+[2024.11.17-05.06.18:765][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/OR/3M3008O7B6A5PVN2H851JB
+[2024.11.17-05.06.18:765][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/3M3008O7B6A5PVN2H851JB13116DA2410B39A058A2A18CA8011504.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/OR/3M3008O7B6A5PVN2H851JB.uasset'
+[2024.11.17-05.06.18:789][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/AH/WQR51UILGSVVQ9K54P5OGA
+[2024.11.17-05.06.18:789][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/WQR51UILGSVVQ9K54P5OGA016E5068480E048583FD119C3E2F0F2D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/AH/WQR51UILGSVVQ9K54P5OGA.uasset'
+[2024.11.17-05.06.18:813][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/TP/2WFNQAJM80UJ48LQSJPR2N
+[2024.11.17-05.06.18:813][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/2WFNQAJM80UJ48LQSJPR2NCD8C72524B7A2EFD7077FE920CA99561.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/TP/2WFNQAJM80UJ48LQSJPR2N.uasset'
+[2024.11.17-05.06.18:837][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/LH/A600J6OWRERP9CEDEWB0RU
+[2024.11.17-05.06.18:837][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/A600J6OWRERP9CEDEWB0RU08A75AB04F83E6625DBEEBB35DB5A9C9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/LH/A600J6OWRERP9CEDEWB0RU.uasset'
+[2024.11.17-05.06.18:863][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/AN/WWCO30J3SHT66LG2RUDIW7
+[2024.11.17-05.06.18:863][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/WWCO30J3SHT66LG2RUDIW781F5EB594C5E21B6832EA3825DAEA705.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/AN/WWCO30J3SHT66LG2RUDIW7.uasset'
+[2024.11.17-05.06.18:887][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/C/0L/BAYN4U2DQCHGP1EIULWAWR
+[2024.11.17-05.06.18:887][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BAYN4U2DQCHGP1EIULWAWRF2885AEA456274D8E0498EB14F2FF684.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/C/0L/BAYN4U2DQCHGP1EIULWAWR.uasset'
+[2024.11.17-05.06.18:911][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/YD/KI15UMBTJS3M16H4ISC1R8
+[2024.11.17-05.06.18:911][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/KI15UMBTJS3M16H4ISC1R88EBD29254831C11C3804AFB35210BCD0.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/YD/KI15UMBTJS3M16H4ISC1R8.uasset'
+[2024.11.17-05.06.18:934][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/UW/3C3PED77C3UQOXC8WN9TXT
+[2024.11.17-05.06.18:934][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/3C3PED77C3UQOXC8WN9TXT691AACF54F17FCEC257540BB0440AB8F.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/UW/3C3PED77C3UQOXC8WN9TXT.uasset'
+[2024.11.17-05.06.18:943][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0.LandscapeComponent_101 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.570))
+[2024.11.17-05.06.18:944][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0.LandscapeComponent_117 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.11.17-05.06.18:961][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/6N/2V5BOXF2VOFX4Y75P6C9G1
+[2024.11.17-05.06.18:961][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/2V5BOXF2VOFX4Y75P6C9G193AAC50B410D604543FA149573357601.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/6N/2V5BOXF2VOFX4Y75P6C9G1.uasset'
+[2024.11.17-05.06.18:966][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_102 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.18:967][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_118 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.18:968][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_103 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.18:970][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_119 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.18:982][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/7/47/U62RBFPTM0XZC18OGP9761
+[2024.11.17-05.06.18:982][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/U62RBFPTM0XZC18OGP97614D6946AC40FC452BCD5C9DB824158586.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/7/47/U62RBFPTM0XZC18OGP9761.uasset'
+[2024.11.17-05.06.19:005][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/ZM/Q52848G27J9IW1QMYKEP01
+[2024.11.17-05.06.19:005][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Q52848G27J9IW1QMYKEP01E4CE28014C5FE461D6527D96E49FA8EE.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/ZM/Q52848G27J9IW1QMYKEP01.uasset'
+[2024.11.17-05.06.19:030][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/HC/I8TT2XFVXIN9R1LSGKHS7H
+[2024.11.17-05.06.19:030][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/I8TT2XFVXIN9R1LSGKHS7H028C11B1411689D8FDFF00980AB57025.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/HC/I8TT2XFVXIN9R1LSGKHS7H.uasset'
+[2024.11.17-05.06.19:055][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/UC/N3Z2UI9WY2V9IBNKOGPCXI
+[2024.11.17-05.06.19:056][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/N3Z2UI9WY2V9IBNKOGPCXIA8614F1144903A7CD1AFCBA8FD42DC85.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/UC/N3Z2UI9WY2V9IBNKOGPCXI.uasset'
+[2024.11.17-05.06.19:083][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/P2/OJD520FQVGFY0TE6YPYFNU
+[2024.11.17-05.06.19:083][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/OJD520FQVGFY0TE6YPYFNU37069022469953BCF1C177AE402D6BB9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/P2/OJD520FQVGFY0TE6YPYFNU.uasset'
+[2024.11.17-05.06.19:106][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/ZY/ZOGTHR371YQ2TPTTSHKAD6
+[2024.11.17-05.06.19:106][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZOGTHR371YQ2TPTTSHKAD6CB815A9349487F3F24DBE689FE4CF45D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/ZY/ZOGTHR371YQ2TPTTSHKAD6.uasset'
+[2024.11.17-05.06.19:130][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/X1/L16306971QG8ZL3Q8CA9OR
+[2024.11.17-05.06.19:130][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/L16306971QG8ZL3Q8CA9ORBEAC0E8F4F36A155258D8282C3B3C94D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/X1/L16306971QG8ZL3Q8CA9OR.uasset'
+[2024.11.17-05.06.19:157][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/2S/7GXTQK9HI33FZT6CHSGWVJ
+[2024.11.17-05.06.19:157][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/7GXTQK9HI33FZT6CHSGWVJCB4E5A6449A72153BE7384A962FADED7.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/2S/7GXTQK9HI33FZT6CHSGWVJ.uasset'
+[2024.11.17-05.06.19:164][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.LandscapeComponent_88 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.977))
+[2024.11.17-05.06.19:167][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.LandscapeComponent_89 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.008))
+[2024.11.17-05.06.19:179][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/YI/IPH79WOGOHMVXXSBFAIYU7
+[2024.11.17-05.06.19:179][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/IPH79WOGOHMVXXSBFAIYU759BB36844FC42DB26B06FE87C293D326.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/YI/IPH79WOGOHMVXXSBFAIYU7.uasset'
+[2024.11.17-05.06.19:184][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_104 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:184][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_120 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:187][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_105 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.11.17-05.06.19:188][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_121 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:200][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/56/S22P7NKTKFUH1VLYC91S5V
+[2024.11.17-05.06.19:200][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/S22P7NKTKFUH1VLYC91S5V321C05D84BEE20410424B4BA238285D5.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/56/S22P7NKTKFUH1VLYC91S5V.uasset'
+[2024.11.17-05.06.19:207][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0.LandscapeComponent_122 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.820))
+[2024.11.17-05.06.19:223][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/T2/P1C2LRZN39STRQ1NWB5IG2
+[2024.11.17-05.06.19:223][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/P1C2LRZN39STRQ1NWB5IG264FE06E2465C141DAE2A9A91D75A9EC8.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/T2/P1C2LRZN39STRQ1NWB5IG2.uasset'
+[2024.11.17-05.06.19:247][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/RN/AL0CDVY5EXRSF3JD6L1K3E
+[2024.11.17-05.06.19:247][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/AL0CDVY5EXRSF3JD6L1K3E9B9168714F5A4DFFC4F92288B61A55C4.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/RN/AL0CDVY5EXRSF3JD6L1K3E.uasset'
+[2024.11.17-05.06.19:272][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/7X/GXZOK3K7UEVY2AH3TC90S2
+[2024.11.17-05.06.19:272][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/GXZOK3K7UEVY2AH3TC90S2A94699A94F25166E56CF4386C1FD20AA.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/7X/GXZOK3K7UEVY2AH3TC90S2.uasset'
+[2024.11.17-05.06.19:296][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/C/X8/EER42L8B7ADP9N0V2HUJAS
+[2024.11.17-05.06.19:297][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/EER42L8B7ADP9N0V2HUJAS220FD2EC4D46596C3B81B58972C13005.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/C/X8/EER42L8B7ADP9N0V2HUJAS.uasset'
+[2024.11.17-05.06.19:322][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/RX/6HM9P21U1I8J4XXQYPM53Q
+[2024.11.17-05.06.19:322][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/6HM9P21U1I8J4XXQYPM53Q4358F8A140AFD6495639AFBDCE4A9BAA.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/RX/6HM9P21U1I8J4XXQYPM53Q.uasset'
+[2024.11.17-05.06.19:350][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/7/0A/TJ1UISV8H8FM20UHD48RH0
+[2024.11.17-05.06.19:350][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TJ1UISV8H8FM20UHD48RH07DD4DB7944D9B8DE8E2FE98F205C08EB.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/7/0A/TJ1UISV8H8FM20UHD48RH0.uasset'
+[2024.11.17-05.06.19:374][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/C7/DQQ70K5ZRS8UFIZN23HN8N
+[2024.11.17-05.06.19:374][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/DQQ70K5ZRS8UFIZN23HN8N41073B0E4E9A51130FEDC09EF7114E65.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/C7/DQQ70K5ZRS8UFIZN23HN8N.uasset'
+[2024.11.17-05.06.19:398][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/MX/1OU6DOFYCZVJ65UYQ5CPIO
+[2024.11.17-05.06.19:398][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/1OU6DOFYCZVJ65UYQ5CPIOCF23A7E6450F3D3AFF86979F0767D903.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/MX/1OU6DOFYCZVJ65UYQ5CPIO.uasset'
+[2024.11.17-05.06.19:424][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/F5/1V9GLF9A8AYK585WIL4NIO
+[2024.11.17-05.06.19:424][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/1V9GLF9A8AYK585WIL4NIOC289B6EB4823B29C771851ABDFA3D1F9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/F5/1V9GLF9A8AYK585WIL4NIO.uasset'
+[2024.11.17-05.06.19:447][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/33/ZGS4I8EH44Z1OHWQF6XS7N
+[2024.11.17-05.06.19:447][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZGS4I8EH44Z1OHWQF6XS7NA66A54844BCE681261F4C7A8C39A41F1.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/33/ZGS4I8EH44Z1OHWQF6XS7N.uasset'
+[2024.11.17-05.06.19:472][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/C/W8/1M59OQP06ESMJQ3FUIQDRM
+[2024.11.17-05.06.19:472][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/1M59OQP06ESMJQ3FUIQDRM278DA3FD442B6F94244207929A5723F0.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/C/W8/1M59OQP06ESMJQ3FUIQDRM.uasset'
+[2024.11.17-05.06.19:495][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/VI/HQ8R3QBM4HUTKGG3DE46PB
+[2024.11.17-05.06.19:495][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/HQ8R3QBM4HUTKGG3DE46PB04555C464383AE37ABBC4BB2796A7782.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/VI/HQ8R3QBM4HUTKGG3DE46PB.uasset'
+[2024.11.17-05.06.19:518][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/XF/1HE202D77C39AJYMRR2YTU
+[2024.11.17-05.06.19:519][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/1HE202D77C39AJYMRR2YTUB20EA9C94D7893C87AF3BA9DEBAF3AE8.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/XF/1HE202D77C39AJYMRR2YTU.uasset'
+[2024.11.17-05.06.19:542][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/IN/Z6XFQK4A0JY2YDP1ZG1043
+[2024.11.17-05.06.19:542][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Z6XFQK4A0JY2YDP1ZG10431093B82043F8DC8166A73FA007C88374.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/IN/Z6XFQK4A0JY2YDP1ZG1043.uasset'
+[2024.11.17-05.06.19:567][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/RJ/NFYA2VYB685GPHQI1JMO81
+[2024.11.17-05.06.19:568][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/NFYA2VYB685GPHQI1JMO81DA31927243EF387FBA90D6B2B090EEB2.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/RJ/NFYA2VYB685GPHQI1JMO81.uasset'
+[2024.11.17-05.06.19:576][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.LandscapeComponent_133 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.977))
+[2024.11.17-05.06.19:577][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.LandscapeComponent_149 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.656))
+[2024.11.17-05.06.19:589][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/Z5/KEE3YKQEBFX03F2DDMLN5I
+[2024.11.17-05.06.19:589][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/KEE3YKQEBFX03F2DDMLN5I3395F8DA4FEF7874FFAA9498CDD7B18E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/Z5/KEE3YKQEBFX03F2DDMLN5I.uasset'
+[2024.11.17-05.06.19:612][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/0X/AD7O2JT31IJOWHWUY3Y14V
+[2024.11.17-05.06.19:612][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/AD7O2JT31IJOWHWUY3Y14V2DA8B1D3467CA852FB041CAAAF70E047.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/0X/AD7O2JT31IJOWHWUY3Y14V.uasset'
+[2024.11.17-05.06.19:641][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/J0/HI6A8KGJE9S8SQA9DL4C0Q
+[2024.11.17-05.06.19:641][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/HI6A8KGJE9S8SQA9DL4C0QA444B6304082B7EF45D17DB76C1F0C1D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/J0/HI6A8KGJE9S8SQA9DL4C0Q.uasset'
+[2024.11.17-05.06.19:646][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_134 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:648][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_150 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:650][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_135 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:652][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_151 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:670][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/1D/GRYJEP1WRL6EAMG785M82Z
+[2024.11.17-05.06.19:670][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/GRYJEP1WRL6EAMG785M82Z5CD5A19D4B70E8680E5FCA9402192202.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/1D/GRYJEP1WRL6EAMG785M82Z.uasset'
+[2024.11.17-05.06.19:701][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/M0/KORYWH89ARTXWUXMMIQ0AE
+[2024.11.17-05.06.19:702][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/KORYWH89ARTXWUXMMIQ0AE16B7F3EE41EB035DB857CA827BE406D2.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/M0/KORYWH89ARTXWUXMMIQ0AE.uasset'
+[2024.11.17-05.06.19:724][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/8S/TZE1PWR9E1O4XUQ6ZTEE00
+[2024.11.17-05.06.19:724][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TZE1PWR9E1O4XUQ6ZTEE00B8556002444E02AE705014A68677D6A9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/8S/TZE1PWR9E1O4XUQ6ZTEE00.uasset'
+[2024.11.17-05.06.19:747][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/0W/29NGIPBJEYAU3PENHJHWXG
+[2024.11.17-05.06.19:747][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/29NGIPBJEYAU3PENHJHWXG4DF7C05D4D8B759A8456BA86A5DA57E7.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/0W/29NGIPBJEYAU3PENHJHWXG.uasset'
+[2024.11.17-05.06.19:751][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_136 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:752][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_152 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:754][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_137 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:754][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_153 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.11.17-05.06.19:767][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/7/3C/W3FFM6O0MIQLNV1KTFBHG7
+[2024.11.17-05.06.19:767][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/W3FFM6O0MIQLNV1KTFBHG7BED7328D409529039A7F8DAA45DF03FD.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/7/3C/W3FFM6O0MIQLNV1KTFBHG7.uasset'
+[2024.11.17-05.06.19:790][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/W6/I65XLMFVU41K3CS8HOPTOE
+[2024.11.17-05.06.19:790][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/I65XLMFVU41K3CS8HOPTOE0DB1AED0448D71635B28D197B04E2028.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/W6/I65XLMFVU41K3CS8HOPTOE.uasset'
+[2024.11.17-05.06.19:794][732]LogLandscape: Display: The component /Game/Turkey.Turkey:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.LandscapeComponent_138 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.883))
+[2024.11.17-05.06.19:811][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/X4/YTPVPFD57EDO762CU3BAZH
+[2024.11.17-05.06.19:811][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/YTPVPFD57EDO762CU3BAZH0ACFAECA4635D6BCFDEDE4AC21C2316A.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/X4/YTPVPFD57EDO762CU3BAZH.uasset'
+[2024.11.17-05.06.19:833][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/4Z/ZBFXM91Y65SNIYGEC1HMO1
+[2024.11.17-05.06.19:833][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZBFXM91Y65SNIYGEC1HMO1963A5A84448FE5EDFCF08CBC5C5B4ADF.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/4Z/ZBFXM91Y65SNIYGEC1HMO1.uasset'
+[2024.11.17-05.06.19:856][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/BZ/UHUME6337K3HT06HHP2M2T
+[2024.11.17-05.06.19:857][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/UHUME6337K3HT06HHP2M2TFC8054444F817E8042F859A63503C493.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/BZ/UHUME6337K3HT06HHP2M2T.uasset'
+[2024.11.17-05.06.19:879][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/QQ/ENHLZ0SV4URGVV30843IFO
+[2024.11.17-05.06.19:879][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ENHLZ0SV4URGVV30843IFO3FEFBFDE451BD4CFE41702BDE5BBF825.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/QQ/ENHLZ0SV4URGVV30843IFO.uasset'
+[2024.11.17-05.06.19:902][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/BQ/67WJWPDR3HOTH6APP25KTZ
+[2024.11.17-05.06.19:902][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/67WJWPDR3HOTH6APP25KTZFFF1B0BC4CCBC68A455583A0E3D82D5B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/BQ/67WJWPDR3HOTH6APP25KTZ.uasset'
+[2024.11.17-05.06.19:926][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/C/5E/ZMU7DICB0Z75QBLSXK932V
+[2024.11.17-05.06.19:926][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZMU7DICB0Z75QBLSXK932V745537054318C4E6F268669C87D3991B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/C/5E/ZMU7DICB0Z75QBLSXK932V.uasset'
+[2024.11.17-05.06.19:950][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/R0/JJ9284SZADOF4QIGXKDS3M
+[2024.11.17-05.06.19:950][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/JJ9284SZADOF4QIGXKDS3MA6F2FABF4CCABFA467857B805E6F2E94.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/R0/JJ9284SZADOF4QIGXKDS3M.uasset'
+[2024.11.17-05.06.19:974][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/Y2/PJC0VUFPS5YEDI1XW27MFL
+[2024.11.17-05.06.19:974][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/PJC0VUFPS5YEDI1XW27MFLC14C06DC47F28ADB431271AF755F550F.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/Y2/PJC0VUFPS5YEDI1XW27MFL.uasset'
+[2024.11.17-05.06.19:997][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/C6/FXD64SF4VVWKEY0X4JN1ZO
+[2024.11.17-05.06.19:997][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/FXD64SF4VVWKEY0X4JN1ZOF1AFE19B4F7416F4BB7B32BF6681D863.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/C6/FXD64SF4VVWKEY0X4JN1ZO.uasset'
+[2024.11.17-05.06.20:027][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/K6/HM3NO2VZNTGLWFB2BABB8W
+[2024.11.17-05.06.20:027][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/HM3NO2VZNTGLWFB2BABB8W52777A604F6E5FFB3CA6A9871E70502E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/K6/HM3NO2VZNTGLWFB2BABB8W.uasset'
+[2024.11.17-05.06.20:052][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/09/OP8H42HZEJXNTZ112P8S72
+[2024.11.17-05.06.20:052][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/OP8H42HZEJXNTZ112P8S72FA590A8E48ED317B6349B29B82D66EF0.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/09/OP8H42HZEJXNTZ112P8S72.uasset'
+[2024.11.17-05.06.20:075][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/NZ/DZH8Y8PME1NUYRQK33LXHS
+[2024.11.17-05.06.20:075][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/DZH8Y8PME1NUYRQK33LXHSE7C92DEB47AE9A676002D097300BEF0F.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/NZ/DZH8Y8PME1NUYRQK33LXHS.uasset'
+[2024.11.17-05.06.20:100][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/I5/VQ47TMS27DQMSR2ELK5DDZ
+[2024.11.17-05.06.20:100][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/VQ47TMS27DQMSR2ELK5DDZ263E3DCF42C9653E2F028F96CA2B6216.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/I5/VQ47TMS27DQMSR2ELK5DDZ.uasset'
+[2024.11.17-05.06.20:110][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/5E/H0NU2UNXW69PSWZXYORWXA
+[2024.11.17-05.06.20:110][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/H0NU2UNXW69PSWZXYORWXA245AEB71475017A566DD5A8E939B786F.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/5E/H0NU2UNXW69PSWZXYORWXA.uasset'
+[2024.11.17-05.06.20:120][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/N3/NQM8MZ69TDC558IXCSQB6L
+[2024.11.17-05.06.20:120][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/NQM8MZ69TDC558IXCSQB6L9B869AFA49ACA074827C8598154AE717.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/N3/NQM8MZ69TDC558IXCSQB6L.uasset'
+[2024.11.17-05.06.20:130][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/UF/5W9XIFK7KI5O1SSLT3T2FH
+[2024.11.17-05.06.20:130][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/5W9XIFK7KI5O1SSLT3T2FHAF95E5D1437FD7DCC4546F9E574B60C8.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/UF/5W9XIFK7KI5O1SSLT3T2FH.uasset'
+[2024.11.17-05.06.20:139][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/A0/0NL5FF9EX24GJUEXMI65SC
+[2024.11.17-05.06.20:140][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/0NL5FF9EX24GJUEXMI65SCBBF9ECF64EE6D5A3C92EC1A7D614071D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/A0/0NL5FF9EX24GJUEXMI65SC.uasset'
+[2024.11.17-05.06.20:148][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/F/29/0V89KTJQQQBV8VEW0IQD4W
+[2024.11.17-05.06.20:149][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/0V89KTJQQQBV8VEW0IQD4WA636958E4ADDAE33124F44A25DA60502.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/F/29/0V89KTJQQQBV8VEW0IQD4W.uasset'
+[2024.11.17-05.06.20:161][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/TL/C3WC4TUYHB1LSCWXFP64MS
+[2024.11.17-05.06.20:161][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/C3WC4TUYHB1LSCWXFP64MS03E32A0A45C866511AF9E393BBAFF669.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/TL/C3WC4TUYHB1LSCWXFP64MS.uasset'
+[2024.11.17-05.06.20:173][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/H1/PDWUN0Q2SPERAIBKV2KSKZ
+[2024.11.17-05.06.20:173][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/PDWUN0Q2SPERAIBKV2KSKZ63D7C86644FA46B8DB9752902DCD1DFF.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/H1/PDWUN0Q2SPERAIBKV2KSKZ.uasset'
+[2024.11.17-05.06.20:185][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/9X/MXB75JHCTA616CT2D1YST0
+[2024.11.17-05.06.20:185][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/MXB75JHCTA616CT2D1YST0D0A547F54002E7FD2EFC9081097B8AA6.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/9X/MXB75JHCTA616CT2D1YST0.uasset'
+[2024.11.17-05.06.20:196][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/7Z/ZAV7HDXH50Z3BD2RPZTEQ3
+[2024.11.17-05.06.20:196][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZAV7HDXH50Z3BD2RPZTEQ3845556F14945134DE040BE9753462676.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/7Z/ZAV7HDXH50Z3BD2RPZTEQ3.uasset'
+[2024.11.17-05.06.20:206][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/SJ/8DF0R5WF0A6R0GKURB3DP8
+[2024.11.17-05.06.20:206][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/8DF0R5WF0A6R0GKURB3DP888B040424DDE64171D09068BBB7C019D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/SJ/8DF0R5WF0A6R0GKURB3DP8.uasset'
+[2024.11.17-05.06.20:215][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/SH/Y2Q7MAPQBFVAZT2JBW4B2N
+[2024.11.17-05.06.20:215][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Y2Q7MAPQBFVAZT2JBW4B2NA8E5C24C47DB87C0107DCAAA141DD68C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/SH/Y2Q7MAPQBFVAZT2JBW4B2N.uasset'
+[2024.11.17-05.06.20:229][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/7/UH/4OXLJI1OSR1CN55JYVN3LN
+[2024.11.17-05.06.20:229][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/4OXLJI1OSR1CN55JYVN3LNF0785483475C3BCA15683E8F3522F2C9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/7/UH/4OXLJI1OSR1CN55JYVN3LN.uasset'
+[2024.11.17-05.06.20:238][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/J7/Z5O3L2P4ZPTNIX5WWF7B2D
+[2024.11.17-05.06.20:238][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Z5O3L2P4ZPTNIX5WWF7B2D0B0D79C94F8ABAF2544AEBA7C2BDB86F.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/J7/Z5O3L2P4ZPTNIX5WWF7B2D.uasset'
+[2024.11.17-05.06.20:250][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/M4/TKWSNL87MFPH2YHUTQ0FFQ
+[2024.11.17-05.06.20:250][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TKWSNL87MFPH2YHUTQ0FFQ9393590D41085FA8195853BA8CCEF869.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/M4/TKWSNL87MFPH2YHUTQ0FFQ.uasset'
+[2024.11.17-05.06.20:260][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/8D/I0A02J1O6WVGNIY3F6F4QU
+[2024.11.17-05.06.20:260][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/I0A02J1O6WVGNIY3F6F4QU2ABD93834FB7B7FF6CD38CB3903C5E14.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/8D/I0A02J1O6WVGNIY3F6F4QU.uasset'
+[2024.11.17-05.06.20:270][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/1Q/6RG3AWWAKD3KFJG17CGQRY
+[2024.11.17-05.06.20:270][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/6RG3AWWAKD3KFJG17CGQRY118154A64985881EC1087D95514F7B96.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/1Q/6RG3AWWAKD3KFJG17CGQRY.uasset'
+[2024.11.17-05.06.20:284][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/KO/CZF5XPW2NYM8NCK49X620W
+[2024.11.17-05.06.20:284][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/CZF5XPW2NYM8NCK49X620WFAB8841C47DE1DBF2E3402B47F555F6C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/KO/CZF5XPW2NYM8NCK49X620W.uasset'
+[2024.11.17-05.06.20:293][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/VC/PNZ4RO8IFIIOPFQPS3LYAJ
+[2024.11.17-05.06.20:293][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/PNZ4RO8IFIIOPFQPS3LYAJ45A040684A084D97728CCCB5ACA41D1C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/VC/PNZ4RO8IFIIOPFQPS3LYAJ.uasset'
+[2024.11.17-05.06.20:305][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/B9/UCWALTBTFB5UYGFD2G0UIZ
+[2024.11.17-05.06.20:305][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/UCWALTBTFB5UYGFD2G0UIZ3B742CAA47CD1A4759A4ACB36193B12D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/B9/UCWALTBTFB5UYGFD2G0UIZ.uasset'
+[2024.11.17-05.06.20:317][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/K7/287D34UJ6XWMBYVPPZQ8P4
+[2024.11.17-05.06.20:317][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/287D34UJ6XWMBYVPPZQ8P4619C43A541C81189B798FC8EE2677109.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/K7/287D34UJ6XWMBYVPPZQ8P4.uasset'
+[2024.11.17-05.06.20:328][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/HD/IBNZZBZ2VILSIAFLNQR9F3
+[2024.11.17-05.06.20:328][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/IBNZZBZ2VILSIAFLNQR9F3B26D7A4D4288DC1957C5F1968D9E997E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/HD/IBNZZBZ2VILSIAFLNQR9F3.uasset'
+[2024.11.17-05.06.20:341][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/OO/3C3R3YGTRME1CDN3R8EGTM
+[2024.11.17-05.06.20:341][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/3C3R3YGTRME1CDN3R8EGTM80448E584BC1296BF788BF92BD1CF879.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/OO/3C3R3YGTRME1CDN3R8EGTM.uasset'
+[2024.11.17-05.06.20:350][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/GH/5UCXXXJUAZIPUDRT3JWLXY
+[2024.11.17-05.06.20:350][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/5UCXXXJUAZIPUDRT3JWLXY890DD31848DF439BA0816E97519EEB0B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/GH/5UCXXXJUAZIPUDRT3JWLXY.uasset'
+[2024.11.17-05.06.20:361][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/9U/YMB06DG39KA3D0UB6JHO1Q
+[2024.11.17-05.06.20:361][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/YMB06DG39KA3D0UB6JHO1Q1BF09D2D4D41996B70B2BCA4862F04DC.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/9U/YMB06DG39KA3D0UB6JHO1Q.uasset'
+[2024.11.17-05.06.20:371][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/47/YE237ANUM7E22WCF94QE79
+[2024.11.17-05.06.20:372][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/YE237ANUM7E22WCF94QE7993E760864CAE9E7C0A04A48DD62C8A1B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/47/YE237ANUM7E22WCF94QE79.uasset'
+[2024.11.17-05.06.20:382][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/2G/2TG2Q44SUSRBC5FK2CCADK
+[2024.11.17-05.06.20:382][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/2TG2Q44SUSRBC5FK2CCADKF64599464F10471B6FFA1F9D1AA1E4D1.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/2G/2TG2Q44SUSRBC5FK2CCADK.uasset'
+[2024.11.17-05.06.20:392][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/U2/DRCSKES83WHA9C2EMKAUMU
+[2024.11.17-05.06.20:392][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/DRCSKES83WHA9C2EMKAUMUAB4D9FA043191D20A70B56BBD0B5036D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/U2/DRCSKES83WHA9C2EMKAUMU.uasset'
+[2024.11.17-05.06.20:401][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/XL/TRR3CAVIZJ0VKN2X3MZDIA
+[2024.11.17-05.06.20:401][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/TRR3CAVIZJ0VKN2X3MZDIA3F0EDE5F47AED449310C019F7A6642E6.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/XL/TRR3CAVIZJ0VKN2X3MZDIA.uasset'
+[2024.11.17-05.06.20:410][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/WL/ZQQ9M1Z637VBJ9S0XMO6ZW
+[2024.11.17-05.06.20:411][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ZQQ9M1Z637VBJ9S0XMO6ZWAA0174E942B9514861C8159FC46883EA.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/WL/ZQQ9M1Z637VBJ9S0XMO6ZW.uasset'
+[2024.11.17-05.06.20:420][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/29/XF4A7W9NVX9M78ACXRPRL8
+[2024.11.17-05.06.20:421][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/XF4A7W9NVX9M78ACXRPRL89206545248FF9BC04AF72987DAD67C17.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/29/XF4A7W9NVX9M78ACXRPRL8.uasset'
+[2024.11.17-05.06.20:430][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/4Q/IKE83RMR9ESPN76J967Z7K
+[2024.11.17-05.06.20:430][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/IKE83RMR9ESPN76J967Z7K39C252044064CE72724CC3A98EEDDB45.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/4Q/IKE83RMR9ESPN76J967Z7K.uasset'
+[2024.11.17-05.06.20:440][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/CP/I8G5LI1GRTKV1OYA0NZ8O3
+[2024.11.17-05.06.20:440][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/I8G5LI1GRTKV1OYA0NZ8O39127B34C49BDD1C873B15B89AB3D099D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/CP/I8G5LI1GRTKV1OYA0NZ8O3.uasset'
+[2024.11.17-05.06.20:448][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/A2/7YX4PQ92IR4E1ZH7WMB46S
+[2024.11.17-05.06.20:448][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/7YX4PQ92IR4E1ZH7WMB46S742D297E4EA239BDA0E8D4B8D7A45021.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/A2/7YX4PQ92IR4E1ZH7WMB46S.uasset'
+[2024.11.17-05.06.20:457][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/3/NZ/RPKMPSZVI28OO6A1HF40FY
+[2024.11.17-05.06.20:457][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/RPKMPSZVI28OO6A1HF40FY4DFAEB2D4CA5ED2024FAB59E299FBCBF.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/3/NZ/RPKMPSZVI28OO6A1HF40FY.uasset'
+[2024.11.17-05.06.20:466][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/CG/ON736OVLD9T2NEDKW3TJ8E
+[2024.11.17-05.06.20:466][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/ON736OVLD9T2NEDKW3TJ8E64AC30664E738D299B0E7DB5EB3CBB14.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/CG/ON736OVLD9T2NEDKW3TJ8E.uasset'
+[2024.11.17-05.06.20:476][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/W7/NHL7BF4XQ1C5KAY48N2K9W
+[2024.11.17-05.06.20:476][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/NHL7BF4XQ1C5KAY48N2K9W6C501BFE42CDCC81EF4F43B1AE1E0ADA.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/W7/NHL7BF4XQ1C5KAY48N2K9W.uasset'
+[2024.11.17-05.06.20:486][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/2U/7IRSI161BFZFFZB2K4BQT0
+[2024.11.17-05.06.20:486][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/7IRSI161BFZFFZB2K4BQT07279252F494C5061B12829B3A1E3D5A6.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/2U/7IRSI161BFZFFZB2K4BQT0.uasset'
+[2024.11.17-05.06.20:495][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/AJ/7LOX8LEWUHSWTES3MXX5MK
+[2024.11.17-05.06.20:497][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/7LOX8LEWUHSWTES3MXX5MK40EEE660402DAC174A4FACBC95638F8B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/AJ/7LOX8LEWUHSWTES3MXX5MK.uasset'
+[2024.11.17-05.06.20:505][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/GQ/KQ0RX78G1NEQASJSXFV7Q5
+[2024.11.17-05.06.20:505][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/KQ0RX78G1NEQASJSXFV7Q5C94543564F5C6A96538FB0B82567EE5B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/GQ/KQ0RX78G1NEQASJSXFV7Q5.uasset'
+[2024.11.17-05.06.20:514][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/9/F3/W5PKECR6B36DQ3Z6D80ZVD
+[2024.11.17-05.06.20:514][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/W5PKECR6B36DQ3Z6D80ZVD88CD477A440D4F84DD9B71A181B0E75D.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/9/F3/W5PKECR6B36DQ3Z6D80ZVD.uasset'
+[2024.11.17-05.06.20:527][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/0/UB/500OEJHNJO6H5AKJH0J0F9
+[2024.11.17-05.06.20:527][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/500OEJHNJO6H5AKJH0J0F9D3527A9B4D84AA268E52BAB2790772E4.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/0/UB/500OEJHNJO6H5AKJH0J0F9.uasset'
+[2024.11.17-05.06.20:536][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/NE/1OJOSDENV3YLZM2VUIZIR7
+[2024.11.17-05.06.20:536][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/1OJOSDENV3YLZM2VUIZIR765CEF49947E15FA54432A3977E981B0C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/NE/1OJOSDENV3YLZM2VUIZIR7.uasset'
+[2024.11.17-05.06.20:546][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/0F/URCA1UAW6G4GVRN1UA2END
+[2024.11.17-05.06.20:546][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/URCA1UAW6G4GVRN1UA2END700EA6A5476F12B9B8F2C3B55F3664B9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/0F/URCA1UAW6G4GVRN1UA2END.uasset'
+[2024.11.17-05.06.20:557][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/54/XRMPNTWB2FI4O1R4BLOWZS
+[2024.11.17-05.06.20:557][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/XRMPNTWB2FI4O1R4BLOWZS469F0D234D96E72719B637904FCF0937.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/54/XRMPNTWB2FI4O1R4BLOWZS.uasset'
+[2024.11.17-05.06.20:571][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/3S/WIP3XT223AYR3Y9WBL6JFF
+[2024.11.17-05.06.20:571][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/WIP3XT223AYR3Y9WBL6JFF8C53ABC04A2A6CC1663E8F8B09E988F6.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/3S/WIP3XT223AYR3Y9WBL6JFF.uasset'
+[2024.11.17-05.06.20:579][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/9A/OZMQNORZFVID9PJ2TNN45O
+[2024.11.17-05.06.20:579][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/OZMQNORZFVID9PJ2TNN45O18CDD44D4932D6C1DAF5A19610EC0C40.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/9A/OZMQNORZFVID9PJ2TNN45O.uasset'
+[2024.11.17-05.06.20:589][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/7/YP/WM2A5C8QO1AW6SH27N0ATK
+[2024.11.17-05.06.20:589][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/WM2A5C8QO1AW6SH27N0ATK52706EA148AB9224EA253C8DA5632CE3.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/7/YP/WM2A5C8QO1AW6SH27N0ATK.uasset'
+[2024.11.17-05.06.20:598][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/RE/6C7HW86EKWEBYXRQ57X7YG
+[2024.11.17-05.06.20:598][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/6C7HW86EKWEBYXRQ57X7YGE62720A143487028557B03A9A0B3D710.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/RE/6C7HW86EKWEBYXRQ57X7YG.uasset'
+[2024.11.17-05.06.20:607][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/YN/M6KH92NGPEJF3XN128Z6PK
+[2024.11.17-05.06.20:608][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/M6KH92NGPEJF3XN128Z6PKB0A585564E9215033109E38F410FC435.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/YN/M6KH92NGPEJF3XN128Z6PK.uasset'
+[2024.11.17-05.06.20:617][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/D/U4/Q5ZE898DP4RL8SXN5E8YYK
+[2024.11.17-05.06.20:617][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Q5ZE898DP4RL8SXN5E8YYK9A0F8DD64885582DBCEE78931D8FC390.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/D/U4/Q5ZE898DP4RL8SXN5E8YYK.uasset'
+[2024.11.17-05.06.20:628][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/GQ/KGQ2QTQD6AMXH7287ENNS1
+[2024.11.17-05.06.20:628][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/KGQ2QTQD6AMXH7287ENNS1CBF71AD74CC15C65AC6B4DB7CC5B7400.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/GQ/KGQ2QTQD6AMXH7287ENNS1.uasset'
+[2024.11.17-05.06.20:641][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/8/MR/XFHMV3O7PXXWSO2HX591JA
+[2024.11.17-05.06.20:641][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/XFHMV3O7PXXWSO2HX591JA742E701D47F58A9F51C089BDBB0A3789.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/8/MR/XFHMV3O7PXXWSO2HX591JA.uasset'
+[2024.11.17-05.06.20:651][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/VC/1UQBHYAPVVU426CVDR7AJ8
+[2024.11.17-05.06.20:651][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/1UQBHYAPVVU426CVDR7AJ832E906754F1BA27B7EDFE28248B12011.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/VC/1UQBHYAPVVU426CVDR7AJ8.uasset'
+[2024.11.17-05.06.20:664][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/2/SF/2GHC1DP8OU6PIMKZ0UQJVS
+[2024.11.17-05.06.20:664][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/2GHC1DP8OU6PIMKZ0UQJVS890276F841438AC723EDF8B514CDCE77.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/2/SF/2GHC1DP8OU6PIMKZ0UQJVS.uasset'
+[2024.11.17-05.06.20:674][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/VB/E54RR7F203FLJZ00KQJ96R
+[2024.11.17-05.06.20:674][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/E54RR7F203FLJZ00KQJ96R25677A8D4456B00A3B60AC9899E46197.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/VB/E54RR7F203FLJZ00KQJ96R.uasset'
+[2024.11.17-05.06.20:684][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/V6/3JRV7F459VNZI3N8Q0COAC
+[2024.11.17-05.06.20:684][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/3JRV7F459VNZI3N8Q0COACC6DBDD9C4686EB80A6BFCC9422865724.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/V6/3JRV7F459VNZI3N8Q0COAC.uasset'
+[2024.11.17-05.06.20:694][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/1F/5GSYSFM06OGZ9VYJ9LIV4C
+[2024.11.17-05.06.20:694][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/5GSYSFM06OGZ9VYJ9LIV4C762708AA4CEF11E171713CAD21280571.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/1F/5GSYSFM06OGZ9VYJ9LIV4C.uasset'
+[2024.11.17-05.06.20:707][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/CH/H2HI0QNVLYXQ72Q3I3DCKA
+[2024.11.17-05.06.20:708][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/H2HI0QNVLYXQ72Q3I3DCKA6AE5CE444BE5256BA8E9A880CFC1E0A7.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/CH/H2HI0QNVLYXQ72Q3I3DCKA.uasset'
+[2024.11.17-05.06.20:718][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/1/6S/BTI8P4E112FQTGNKL9P9QF
+[2024.11.17-05.06.20:718][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BTI8P4E112FQTGNKL9P9QF069306384EB4D8230D3C5F8F07817DFF.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/1/6S/BTI8P4E112FQTGNKL9P9QF.uasset'
+[2024.11.17-05.06.20:728][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/VJ/FLAB0BLNPG5RKSOXRMST49
+[2024.11.17-05.06.20:728][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/FLAB0BLNPG5RKSOXRMST49431AAD134BB5BB778D52089716676FFC.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/VJ/FLAB0BLNPG5RKSOXRMST49.uasset'
+[2024.11.17-05.06.20:738][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/4/QW/LGSJZUZA5CH4FP531JRZ5E
+[2024.11.17-05.06.20:738][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/LGSJZUZA5CH4FP531JRZ5EFA06832844B362E018A7A68F1710298A.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/4/QW/LGSJZUZA5CH4FP531JRZ5E.uasset'
+[2024.11.17-05.06.20:749][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/7/ST/Q9JUI0HAJHVTGJ0ARYLGXO
+[2024.11.17-05.06.20:749][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Q9JUI0HAJHVTGJ0ARYLGXO0426845247AF5D4BC632539CEB5EC8FB.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/7/ST/Q9JUI0HAJHVTGJ0ARYLGXO.uasset'
+[2024.11.17-05.06.20:762][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/B/GK/QH88ESGFAQQ00QGB5JVN0Z
+[2024.11.17-05.06.20:762][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/QH88ESGFAQQ00QGB5JVN0Z92091D8B4F2DD5B26B21C8BEDAA1ACDC.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/B/GK/QH88ESGFAQQ00QGB5JVN0Z.uasset'
+[2024.11.17-05.06.20:773][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/5/VI/X69O3UVIB7UCT669X7YG3W
+[2024.11.17-05.06.20:773][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/X69O3UVIB7UCT669X7YG3W36EFFB564C906971EB2FA9B0851009FB.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/5/VI/X69O3UVIB7UCT669X7YG3W.uasset'
+[2024.11.17-05.06.20:779][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/6/N6/UCRVII9D40NY7L6HGGFWIM
+[2024.11.17-05.06.20:779][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/UCRVII9D40NY7L6HGGFWIM9AFAFB1141BDD413A4AB7CBBAD655D8B.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/6/N6/UCRVII9D40NY7L6HGGFWIM.uasset'
+[2024.11.17-05.06.20:785][732]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/C/O5/XE57G3X4KXMV7D3FZ3TCEQ
+[2024.11.17-05.06.20:785][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/XE57G3X4KXMV7D3FZ3TCEQ680EECF24890359AA6ABA5B5CB7BC5F0.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/C/O5/XE57G3X4KXMV7D3FZ3TCEQ.uasset'
+[2024.11.17-05.06.20:796][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.32 sec (total: 28.5 sec)
+[2024.11.17-05.06.20:808][732]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Turkey_HLOD0_Instancing
+/Game/__ExternalActors__/Turkey/D/89/TFK7GJJ6F4F4QS8UYIUH5W
+/Game/__ExternalObjects__/Turkey/3/QP/IF3BAGPUCGIK30U6P85YS6
+/Game/__ExternalObjects__/Turkey/C/UR/ZF2VAZWIJ86XOU6KVH7T3R
+/Game/__ExternalObjects__/Turkey/6/RA/EIO2FK9YTHB9KB65XARWPU
+/Game/__ExternalObjects__/Turkey/6/7K/0BJ6T40UNI93CD2KMV926U
+/Game/__ExternalObjects__/Turkey/7/HY/7PH5X40H6BU2OCF4BLEFCQ
+/Game/__ExternalObjects__/Turkey/9/ZT/CUKMEQLJZY9Z50AG90L31L
+/Game/__ExternalActors__/Turkey/1/KY/Y3QSDXK6GE3S7AV8VVJMD9
+/Game/__ExternalActors__/Turkey/8/RH/35ANNSA3Q2ILJGMJI9AUK3
+/Game/__ExternalActors__/Turkey/E/BM/Z95ZSDWCEYDSYOIE1P72HW
+/Game/__ExternalActors__/Turkey/0/QR/INV83E8AIJ3FRSOXKBE1B4
+/Game/__ExternalActors__/Turkey/2/3W/TMHE8XB758Q91SC29RWFBJ
+/Game/__ExternalActors__/Turkey/B/RO/JKOGNABC9T2UDKBJS1448C
+/Game/__ExternalActors__/Turkey/D/XC/IIJYA0BPKNYHX4MVKKLGTY
+/Game/__ExternalActors__/Turkey/6/6K/8E8Q8RHIV3FHL3M7IMQ4DJ
+/Game/__ExternalActors__/Turkey/B/3G/XASG3U9Z3CFZX7VNUNTHIW
+/Game/__ExternalActors__/Turkey/5/CG/UJCJSNSKJV3HOJRE8HMPFZ
+/Game/__ExternalActors__/Turkey/E/5H/6IHNFCCOM5EKRC6YMDU1CB
+/Game/__ExternalActors__/Turkey/0/TU/7ME00407X48UI9Y5Y6D8B2
+/Game/__ExternalActors__/Turkey/B/9D/526ZAKAOS4FSLSYZW1FISZ
+/Game/__ExternalActors__/Turkey/B/I2/ITXJ74YYF9SSD0P5P0OPGB
+/Game/__ExternalActors__/Turkey/6/D8/KHZ2CU1TT0YG89G5IMQM8E
+/Game/__ExternalActors__/Turkey/3/BK/Y5OFEL0J7FLO0NGKZBLRME
+/Game/__ExternalActors__/Turkey/D/HC/8F47MA9FR88A3LSANRBBKF
+/Game/__ExternalActors__/Turkey/8/OR/3M3008O7B6A5PVN2H851JB
+/Game/__ExternalActors__/Turkey/6/AH/WQR51UILGSVVQ9K54P5OGA
+/Game/__ExternalActors__/Turkey/A/TP/2WFNQAJM80UJ48LQSJPR2N
+/Game/__ExternalActors__/Turkey/9/LH/A600J6OWRERP9CEDEWB0RU
+/Game/__ExternalActors__/Turkey/4/AN/WWCO30J3SHT66LG2RUDIW7
+/Game/__ExternalActors__/Turkey/C/0L/BAYN4U2DQCHGP1EIULWAWR
+/Game/__ExternalActors__/Turkey/5/YD/KI15UMBTJS3M16H4ISC1R8
+/Game/__ExternalActors__/Turkey/8/UW/3C3PED77C3UQOXC8WN9TXT
+/Game/__ExternalActors__/Turkey/2/6N/2V5BOXF2VOFX4Y75P6C9G1
+/Game/__ExternalActors__/Turkey/7/47/U62RBFPTM0XZC18OGP9761
+/Game/__ExternalActors__/Turkey/3/ZM/Q52848G27J9IW1QMYKEP01
+/Game/__ExternalActors__/Turkey/A/HC/I8TT2XFVXIN9R1LSGKHS7H
+/Game/__ExternalActors__/Turkey/4/UC/N3Z2UI9WY2V9IBNKOGPCXI
+/Game/__ExternalActors__/Turkey/1/P2/OJD520FQVGFY0TE6YPYFNU
+/Game/__ExternalActors__/Turkey/9/ZY/ZOGTHR371YQ2TPTTSHKAD6
+/Game/__ExternalActors__/Turkey/A/X1/L16306971QG8ZL3Q8CA9OR
+/Game/__ExternalActors__/Turkey/E/2S/7GXTQK9HI33FZT6CHSGWVJ
+/Game/__ExternalActors__/Turkey/1/YI/IPH79WOGOHMVXXSBFAIYU7
+/Game/__ExternalActors__/Turkey/2/56/S22P7NKTKFUH1VLYC91S5V
+/Game/__ExternalActors__/Turkey/9/T2/P1C2LRZN39STRQ1NWB5IG2
+/Game/__ExternalActors__/Turkey/3/RN/AL0CDVY5EXRSF3JD6L1K3E
+/Game/__ExternalActors__/Turkey/9/7X/GXZOK3K7UEVY2AH3TC90S2
+/Game/__ExternalActors__/Turkey/C/X8/EER42L8B7ADP9N0V2HUJAS
+/Game/__ExternalActors__/Turkey/1/RX/6HM9P21U1I8J4XXQYPM53Q
+/Game/__ExternalActors__/Turkey/7/0A/TJ1UISV8H8FM20UHD48RH0
+/Game/__ExternalActors__/Turkey/3/C7/DQQ70K5ZRS8UFIZN23HN8N
+/Game/__ExternalActors__/Turkey/5/MX/1OU6DOFYCZVJ65UYQ5CPIO
+/Game/__ExternalActors__/Turkey/2/F5/1V9GLF9A8AYK585WIL4NIO
+/Game/__ExternalActors__/Turkey/3/33/ZGS4I8EH44Z1OHWQF6XS7N
+/Game/__ExternalActors__/Turkey/C/W8/1M59OQP06ESMJQ3FUIQDRM
+/Game/__ExternalActors__/Turkey/E/VI/HQ8R3QBM4HUTKGG3DE46PB
+/Game/__ExternalActors__/Turkey/5/XF/1HE202D77C39AJYMRR2YTU
+/Game/__ExternalActors__/Turkey/3/IN/Z6XFQK4A0JY2YDP1ZG1043
+/Game/__ExternalActors__/Turkey/3/RJ/NFYA2VYB685GPHQI1JMO81
+/Game/__ExternalActors__/Turkey/6/Z5/KEE3YKQEBFX03F2DDMLN5I
+/Game/__ExternalActors__/Turkey/D/0X/AD7O2JT31IJOWHWUY3Y14V
+/Game/__ExternalActors__/Turkey/2/J0/HI6A8KGJE9S8SQA9DL4C0Q
+/Game/__ExternalActors__/Turkey/D/1D/GRYJEP1WRL6EAMG785M82Z
+/Game/__ExternalActors__/Turkey/2/M0/KORYWH89ARTXWUXMMIQ0AE
+/Game/__ExternalActors__/Turkey/0/8S/TZE1PWR9E1O4XUQ6ZTEE00
+/Game/__ExternalActors__/Turkey/E/0W/29NGIPBJEYAU3PENHJHWXG
+/Game/__ExternalActors__/Turkey/7/3C/W3FFM6O0MIQLNV1KTFBHG7
+/Game/__ExternalActors__/Turkey/8/W6/I65XLMFVU41K3CS8HOPTOE
+/Game/__ExternalActors__/Turkey/3/X4/YTPVPFD57EDO762CU3BAZH
+/Game/__ExternalActors__/Turkey/A/4Z/ZBFXM91Y65SNIYGEC1HMO1
+/Game/__ExternalActors__/Turkey/2/BZ/UHUME6337K3HT06HHP2M2T
+/Game/__ExternalActors__/Turkey/0/QQ/ENHLZ0SV4URGVV30843IFO
+/Game/__ExternalActors__/Turkey/9/BQ/67WJWPDR3HOTH6APP25KTZ
+/Game/__ExternalActors__/Turkey/C/5E/ZMU7DICB0Z75QBLSXK932V
+/Game/__ExternalActors__/Turkey/9/R0/JJ9284SZADOF4QIGXKDS3M
+/Game/__ExternalActors__/Turkey/6/Y2/PJC0VUFPS5YEDI1XW27MFL
+/Game/__ExternalActors__/Turkey/D/C6/FXD64SF4VVWKEY0X4JN1ZO
+/Game/__ExternalActors__/Turkey/5/K6/HM3NO2VZNTGLWFB2BABB8W
+/Game/__ExternalActors__/Turkey/8/09/OP8H42HZEJXNTZ112P8S72
+/Game/__ExternalActors__/Turkey/6/NZ/DZH8Y8PME1NUYRQK33LXHS
+/Game/__ExternalActors__/Turkey/E/I5/VQ47TMS27DQMSR2ELK5DDZ
+/Game/__ExternalActors__/Turkey/4/5E/H0NU2UNXW69PSWZXYORWXA
+/Game/__ExternalActors__/Turkey/4/N3/NQM8MZ69TDC558IXCSQB6L
+/Game/__ExternalActors__/Turkey/D/UF/5W9XIFK7KI5O1SSLT3T2FH
+/Game/__ExternalActors__/Turkey/9/A0/0NL5FF9EX24GJUEXMI65SC
+/Game/__ExternalActors__/Turkey/F/29/0V89KTJQQQBV8VEW0IQD4W
+/Game/__ExternalActors__/Turkey/1/TL/C3WC4TUYHB1LSCWXFP64MS
+/Game/__ExternalActors__/Turkey/D/H1/PDWUN0Q2SPERAIBKV2KSKZ
+/Game/__ExternalActors__/Turkey/0/9X/MXB75JHCTA616CT2D1YST0
+/Game/__ExternalActors__/Turkey/5/7Z/ZAV7HDXH50Z3BD2RPZTEQ3
+/Game/__ExternalActors__/Turkey/A/SJ/8DF0R5WF0A6R0GKURB3DP8
+/Game/__ExternalActors__/Turkey/D/SH/Y2Q7MAPQBFVAZT2JBW4B2N
+/Game/__ExternalActors__/Turkey/7/UH/4OXLJI1OSR1CN55JYVN3LN
+/Game/__ExternalActors__/Turkey/6/J7/Z5O3L2P4ZPTNIX5WWF7B2D
+/Game/__ExternalActors__/Turkey/E/M4/TKWSNL87MFPH2YHUTQ0FFQ
+/Game/__ExternalActors__/Turkey/1/8D/I0A02J1O6WVGNIY3F6F4QU
+/Game/__ExternalActors__/Turkey/A/1Q/6RG3AWWAKD3KFJG17CGQRY
+/Game/__ExternalActors__/Turkey/6/KO/CZF5XPW2NYM8NCK49X620W
+/Game/__ExternalActors__/Turkey/D/VC/PNZ4RO8IFIIOPFQPS3LYAJ
+/Game/__ExternalActors__/Turkey/9/B9/UCWALTBTFB5UYGFD2G0UIZ
+/Game/__ExternalActors__/Turkey/4/K7/287D34UJ6XWMBYVPPZQ8P4
+/Game/__ExternalActors__/Turkey/6/HD/IBNZZBZ2VILSIAFLNQR9F3
+/Game/__ExternalActors__/Turkey/B/OO/3C3R3YGTRME1CDN3R8EGTM
+/Game/__ExternalActors__/Turkey/4/GH/5UCXXXJUAZIPUDRT3JWLXY
+/Game/__ExternalActors__/Turkey/E/9U/YMB06DG39KA3D0UB6JHO1Q
+/Game/__ExternalActors__/Turkey/1/47/YE237ANUM7E22WCF94QE79
+/Game/__ExternalActors__/Turkey/D/2G/2TG2Q44SUSRBC5FK2CCADK
+/Game/__ExternalActors__/Turkey/B/U2/DRCSKES83WHA9C2EMKAUMU
+/Game/__ExternalActors__/Turkey/A/XL/TRR3CAVIZJ0VKN2X3MZDIA
+/Game/__ExternalActors__/Turkey/4/WL/ZQQ9M1Z637VBJ9S0XMO6ZW
+/Game/__ExternalActors__/Turkey/5/29/XF4A7W9NVX9M78ACXRPRL8
+/Game/__ExternalActors__/Turkey/E/4Q/IKE83RMR9ESPN76J967Z7K
+/Game/__ExternalActors__/Turkey/A/CP/I8G5LI1GRTKV1OYA0NZ8O3
+/Game/__ExternalActors__/Turkey/1/A2/7YX4PQ92IR4E1ZH7WMB46S
+/Game/__ExternalActors__/Turkey/3/NZ/RPKMPSZVI28OO6A1HF40FY
+/Game/__ExternalActors__/Turkey/E/CG/ON736OVLD9T2NEDKW3TJ8E
+/Game/__ExternalActors__/Turkey/0/W7/NHL7BF4XQ1C5KAY48N2K9W
+/Game/__ExternalActors__/Turkey/E/2U/7IRSI161BFZFFZB2K4BQT0
+/Game/__ExternalActors__/Turkey/2/AJ/7LOX8LEWUHSWTES3MXX5MK
+/Game/__ExternalActors__/Turkey/A/GQ/KQ0RX78G1NEQASJSXFV7Q5
+/Game/__ExternalActors__/Turkey/9/F3/W5PKECR6B36DQ3Z6D80ZVD
+/Game/__ExternalActors__/Turkey/0/UB/500OEJHNJO6H5AKJH0J0F9
+/Game/__ExternalActors__/Turkey/E/NE/1OJOSDENV3YLZM2VUIZIR7
+/Game/__ExternalActors__/Turkey/8/0F/URCA1UAW6G4GVRN1UA2END
+/Game/__ExternalActors__/Turkey/1/54/XRMPNTWB2FI4O1R4BLOWZS
+/Game/__ExternalActors__/Turkey/5/3S/WIP3XT223AYR3Y9WBL6JFF
+/Game/__ExternalActors__/Turkey/1/9A/OZMQNORZFVID9PJ2TNN45O
+/Game/__ExternalActors__/Turkey/7/YP/WM2A5C8QO1AW6SH27N0ATK
+/Game/__ExternalActors__/Turkey/D/RE/6C7HW86EKWEBYXRQ57X7YG
+/Game/__ExternalActors__/Turkey/D/YN/M6KH92NGPEJF3XN128Z6PK
+/Game/__ExternalActors__/Turkey/D/U4/Q5ZE898DP4RL8SXN5E8YYK
+/Game/__ExternalActors__/Turkey/6/GQ/KGQ2QTQD6AMXH7287ENNS1
+/Game/__ExternalActors__/Turkey/8/MR/XFHMV3O7PXXWSO2HX591JA
+/Game/__ExternalActors__/Turkey/5/VC/1UQBHYAPVVU426CVDR7AJ8
+/Game/__ExternalActors__/Turkey/2/SF/2GHC1DP8OU6PIMKZ0UQJVS
+/Game/__ExternalActors__/Turkey/E/VB/E54RR7F203FLJZ00KQJ96R
+/Game/__ExternalActors__/Turkey/1/V6/3JRV7F459VNZI3N8Q0COAC
+/Game/__ExternalActors__/Turkey/A/1F/5GSYSFM06OGZ9VYJ9LIV4C
+/Game/__ExternalActors__/Turkey/4/CH/H2HI0QNVLYXQ72Q3I3DCKA
+/Game/__ExternalActors__/Turkey/1/6S/BTI8P4E112FQTGNKL9P9QF
+/Game/__ExternalActors__/Turkey/B/VJ/FLAB0BLNPG5RKSOXRMST49
+/Game/__ExternalActors__/Turkey/4/QW/LGSJZUZA5CH4FP531JRZ5E
+/Game/__ExternalActors__/Turkey/7/ST/Q9JUI0HAJHVTGJ0ARYLGXO
+/Game/__ExternalActors__/Turkey/B/GK/QH88ESGFAQQ00QGB5JVN0Z
+/Game/__ExternalActors__/Turkey/5/VI/X69O3UVIB7UCT669X7YG3W
+/Game/__ExternalActors__/Turkey/6/N6/UCRVII9D40NY7L6HGGFWIM
+/Game/__ExternalActors__/Turkey/C/O5/XE57G3X4KXMV7D3FZ3TCEQ
+[2024.11.17-05.06.20:837][732]LogFileHelpers: Saving map 'Turkey' took 2.743
+[2024.11.17-05.06.20:837][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.17-05.06.20:838][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.17-05.06.20:856][732]LogSavePackage: Moving output files for package: /Game/Character/BP_TopDownChar
+[2024.11.17-05.06.20:856][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_TopDownChar4554A1474187DC5D635F70967204AB17.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Character/BP_TopDownChar.uasset'
+[2024.11.17-05.06.20:858][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Wave1Enemy] ([2] browsable assets)...
+[2024.11.17-05.06.20:858][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Wave1Enemy]
+[2024.11.17-05.06.20:858][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Wave1Enemy" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset" SILENT=true
+[2024.11.17-05.06.20:865][732]LogSavePackage: Moving output files for package: /Game/Enemies/Wave1Enemy
+[2024.11.17-05.06.20:866][732]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Wave1EnemyB6900DF647D7D317C4079EB0D7A044AD.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset'
+[2024.11.17-05.06.20:921][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.79 sec (total: 37.3 sec)
+[2024.11.17-05.06.20:921][732]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Turkey.Turkey
+[2024.11.17-05.06.20:922][732]Cmd: MAP LOAD FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Turkey.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.17-05.06.20:983][732]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.17-05.06.20:983][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.17-05.06.20:983][732]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Turkey.Turkey
+[2024.11.17-05.06.20:992][732]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.17-05.06.20:993][732]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.17-05.06.20:993][732]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.17-05.06.21:021][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.17-05.06.21:067][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.11.17-05.06.21:075][732]LogWorld: UWorld::CleanupWorld for Base, bSessionEnded=true, bCleanupResources=true
+[2024.11.17-05.06.21:075][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.17-05.06.21:104][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.11.17-05.06.21:133][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.11.17-05.06.21:151][732]LogAudio: Display: Audio Device (ID: 1) registered with world 'Turkey'.
+[2024.11.17-05.06.21:151][732]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.17-05.06.21:153][732]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.11.17-05.06.21:153][732]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.17-05.06.21:153][732]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Turkey.Turkey, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.17-05.06.21:159][732]LogStreaming: Display: FlushAsyncLoading(400): 9 QueuedPackages, 0 AsyncPackages
+[2024.11.17-05.06.21:629][732]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.17-05.06.21:629][732]LogWorldPartition: Display: WorldPartition initialize took 476.059 ms (total: 1.09 sec)
+[2024.11.17-05.06.22:479][732]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.17-05.06.22:514][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.11.17-05.06.22:523][732]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.17-05.06.22:525][732]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.045ms to complete.
+[2024.11.17-05.06.22:771][732]LogContentValidation: Display: Starting to validate 150 assets
+[2024.11.17-05.06.22:771][732]LogContentValidation: Enabled validators:
+[2024.11.17-05.06.22:771][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.17-05.06.22:771][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.17-05.06.22:771][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.17-05.06.22:771][732]LogContentValidation: Display: Validating asset /Game/Turkey.Turkey
+[2024.11.17-05.06.22:772][732]AssetCheck: /Game/Turkey Validating asset
+[2024.11.17-05.06.22:772][732]LogContentValidation: Display: Validating asset /Game/Turkey_HLOD0_Instancing.Turkey_HLOD0_Instancing
+[2024.11.17-05.06.22:772][732]AssetCheck: /Game/Turkey_HLOD0_Instancing Validating asset
+[2024.11.17-05.06.22:772][732]LogContentValidation: Display: Validating asset /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.17-05.06.22:772][732]AssetCheck: /Game/Character/BP_TopDownChar Validating asset
+[2024.11.17-05.06.22:772][732]LogContentValidation: Display: Validating asset /Game/Enemies/Wave1Enemy.Wave1Enemy
+[2024.11.17-05.06.22:772][732]AssetCheck: /Game/Enemies/Wave1Enemy Validating asset
+[2024.11.17-05.06.23:481][732]LogAutomationController: Ignoring very large delta of 13.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: ================================================
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Total job queries 184, among them cache hits 27 (14.67%), DDC hits 148 (80.43%), Duplicates 5 (2.72%)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Tracking 152 distinct input hashes that result in 142 distinct outputs (93.42%)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: RAM used: 5.08 MiB of 768.00 MiB budget. Usage: 0.66%
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 2.80 s
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Job life time (pending + execution): average 2.51 s, max 2.88
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Shader code size: average 33.771 KiB, min 32.082 KiB, max 35.863 KiB
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.88 s
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Average processing rate: 1.39 jobs/sec
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Total thread time: 3.311 s
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Total thread preprocess time: 4.92 s
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Percentage time preprocessing: 148.60%
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Effective parallelization: 1.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.26 sec, max 1.26 sec, min 1.26 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 37.92% of total time (compiled    1 times, average 1.26 sec, max 1.26 sec, min 1.26 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 28.79% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2024.11.17-05.07.47:916][199]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.91% of total time (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.39% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: === Material stats ===
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: Materials Translated:    121
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: Material Translation Only: 0.06 s (37%)
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: Material Cache Hits: 21 (17%)
+[2024.11.17-05.07.47:918][199]LogShaderCompilers: Display: ================================================
