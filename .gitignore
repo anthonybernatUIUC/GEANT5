@@ -78,3 +78,6 @@ DerivedDataCache/*
 Saved/Logs/GEANT5.log
 /Saved/Logs
 *.log
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.log
+*.ini
