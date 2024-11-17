@@ -75,3 +75,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.log
+*.ini
