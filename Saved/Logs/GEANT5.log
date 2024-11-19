@@ -3666,3 +3666,864 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.19-21.57.17:945][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3154.005859
 [2024.11.19-21.57.18:945][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.19-21.57.18:945][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3154.672607, Update Interval: 305.896179
+[2024.11.19-21.59.33:887][682]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-21.59.33:915][682]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-21.59.33:915][682]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-21.59.33:928][682]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 13.096 ms (total: 317.816 ms)
+[2024.11.19-21.59.33:929][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-21.59.33:930][682]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-21.59.33:947][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017453s)
+[2024.11.19-21.59.33:948][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.017546s)
+[2024.11.19-21.59.33:984][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.11.19-21.59.33:987][682]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-21.59.33:988][682]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-21.59.33:988][682]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-21.59.33:988][682]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-21.59.33:988][682]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-21.59.34:003][682]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-21.59.34:003][682]LogWorldPartition: Display: WorldPartition initialize took 14.409 ms (total: 2.23 sec)
+[2024.11.19-21.59.34:003][682]LogPlayLevel: PIE: World Init took: (0.016509s)
+[2024.11.19-21.59.34:014][682]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-21.59.34:014][682]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-21.59.34:014][682]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-21.59.34:014][682]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-21.59.34:014][682]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-21.59.34:014][682]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-21.59.34:017][682]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-21.59.34:068][682]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-21.59.34:069][682]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-21.59.34:069][682]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-21.59.34:069][682]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-21.59.34:074][682]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.11.19-21.59.34:074][682]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.11.19-21.59.34:076][682]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.11.19-21.59.34:077][682]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.11.19-21.59.34:077][682]LogInit: FAudioDevice initialized with ID 25.
+[2024.11.19-21.59.34:077][682]LogAudio: Display: Audio Device (ID: 25) registered with world 'Turkey'.
+[2024.11.19-21.59.34:077][682]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.11.19-21.59.34:084][682]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-21.59.34:087][682]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-15.59.34
+[2024.11.19-21.59.34:088][682]LogWorld: Bringing up level for play took: 0.002798
+[2024.11.19-21.59.34:091][682]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.11.19-21.59.34:102][682]LogStreaming: Display: FlushAsyncLoading(): 46 QueuedPackages, 0 AsyncPackages
+[2024.11.19-21.59.34:531][682]PIE: Server logged in
+[2024.11.19-21.59.34:533][682]PIE: Play in editor total start time 0.622 seconds.
+[2024.11.19-21.59.46:420][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-21.59.46:420][ 48]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-21.59.46:453][ 48]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-21.59.46:454][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-21.59.46:454][ 48]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-21.59.46:455][ 48]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-21.59.46:455][ 48]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-21.59.46:455][ 48]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-21.59.46:462][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-21.59.46:477][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-21.59.46:522][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-21.59.46:522][ 48]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.11.19-21.59.46:522][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.11.19-21.59.46:526][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.11.19-21.59.46:546][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2024.11.19-21.59.46:817][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.11.19-22.03.07:349][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3503.397217
+[2024.11.19-22.03.07:472][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.03.07:473][799]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3503.503662, Update Interval: 303.275848
+[2024.11.19-22.04.54:761][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.11.19-22.04.54:772][883]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Turkey' took 0.045
+[2024.11.19-22.05.03:445][279]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_UI.BP_UI
+[2024.11.19-22.05.03:458][279]LogTexture: Display: Building textures: /Game/UI/UI_Assets/healthcolor-01.healthcolor-01 (BGRA8, 2145x375 x1x1x1) (Required Memory Estimate: 23.587261 MB), EncodeSpeed: Fast
+[2024.11.19-22.05.39:609][724]LogSlate: Window 'BP_UI' being destroyed
+[2024.11.19-22.06.22:740][134]LogDerivedDataCache: C:/Users/antho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.11.19-22.08.54:866][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3850.904785
+[2024.11.19-22.08.54:948][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.08.54:948][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3850.967041, Update Interval: 315.873901
+[2024.11.19-22.09.43:428][ 75]LogSlate: Took 0.011698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.19-22.14.53:107][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4209.155762
+[2024.11.19-22.14.54:108][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.14.54:108][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4209.822754, Update Interval: 338.352600
+[2024.11.19-22.14.55:297][145]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2024.11.19-22.14.55:306][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Turkey' took 0.135
+[2024.11.19-22.14.55:309][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_UI] ([2] browsable assets)...
+[2024.11.19-22.14.55:488][145]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_UI.BP_UI]
+[2024.11.19-22.14.55:488][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_UI]
+[2024.11.19-22.14.55:514][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BP_UI_Auto2
+[2024.11.19-22.14.55:514][145]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_UI_Auto2FF1C76564A4E967FBC86409974BBF885.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/UI/BP_UI_Auto2.uasset'
+[2024.11.19-22.14.55:520][145]LogFileHelpers: Auto-saving content packages took 0.214
+[2024.11.19-22.15.59:963][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.11.19-22.18.02:257][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.11.19-22.20.01:446][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.11.19-22.20.51:247][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.11.19-22.20.51:265][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.20.51:345][303]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_UI] ([2] browsable assets)...
+[2024.11.19-22.20.51:349][303]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_UI.BP_UI]
+[2024.11.19-22.20.51:349][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_UI]
+[2024.11.19-22.20.51:349][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UI" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_UI.uasset" SILENT=true
+[2024.11.19-22.20.51:360][303]LogSavePackage: Moving output files for package: /Game/UI/BP_UI
+[2024.11.19-22.20.51:362][303]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_UIC736F0174D355E308AB6AF9117CF37FD.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_UI.uasset'
+[2024.11.19-22.20.51:373][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.751 ms (total: 15.4 sec)
+[2024.11.19-22.20.51:460][303]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-22.20.51:460][303]LogContentValidation: Enabled validators:
+[2024.11.19-22.20.51:460][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.20.51:460][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.20.51:460][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.20.51:460][303]LogContentValidation: Display: Validating asset /Game/UI/BP_UI.BP_UI
+[2024.11.19-22.20.51:461][303]AssetCheck: /Game/UI/BP_UI Validating asset
+[2024.11.19-22.21.23:107][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4599.118652
+[2024.11.19-22.21.23:216][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.21.23:216][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4599.208984, Update Interval: 322.790009
+[2024.11.19-22.22.38:501][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.11.19-22.23.02:196][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.11.19-22.23.15:138][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.11.19-22.23.29:256][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.23.29:288][397]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.23.29:288][397]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.23.29:308][397]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 20.130 ms (total: 337.946 ms)
+[2024.11.19-22.23.29:310][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.23.29:312][397]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.23.29:337][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023195s)
+[2024.11.19-22.23.29:337][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.023699s)
+[2024.11.19-22.23.29:373][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.11.19-22.23.29:382][397]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.23.29:387][397]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.23.29:387][397]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.23.29:387][397]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.23.29:387][397]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.23.29:402][397]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.23.29:402][397]LogWorldPartition: Display: WorldPartition initialize took 15.693 ms (total: 2.25 sec)
+[2024.11.19-22.23.29:402][397]LogPlayLevel: PIE: World Init took: (0.020140s)
+[2024.11.19-22.23.29:413][397]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.23.29:413][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.23.29:413][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.23.29:413][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.23.29:413][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.23.29:413][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.23.29:416][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.23.29:458][397]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.23.29:459][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.23.29:459][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.23.29:459][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.23.29:460][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.11.19-22.23.29:460][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.11.19-22.23.29:464][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.11.19-22.23.29:464][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.11.19-22.23.29:464][397]LogInit: FAudioDevice initialized with ID 26.
+[2024.11.19-22.23.29:465][397]LogAudio: Display: Audio Device (ID: 26) registered with world 'Turkey'.
+[2024.11.19-22.23.29:465][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.11.19-22.23.29:478][397]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.23.29:482][397]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.23.29
+[2024.11.19-22.23.29:483][397]LogWorld: Bringing up level for play took: 0.003407
+[2024.11.19-22.23.29:487][397]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.11.19-22.23.29:500][397]LogStreaming: Display: FlushAsyncLoading(): 46 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.23.30:004][397]PIE: Server logged in
+[2024.11.19-22.23.30:006][397]PIE: Play in editor total start time 0.721 seconds.
+[2024.11.19-22.24.00:634][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.24.00:634][402]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.24.00:672][402]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.24.00:673][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.24.00:673][402]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.24.00:675][402]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.24.00:676][402]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.24.00:676][402]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.24.00:685][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.24.00:702][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.24.00:759][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.24.00:760][402]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.11.19-22.24.00:761][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.11.19-22.24.00:769][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.11.19-22.24.00:785][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.24.00:809][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.11.19-22.24.01:058][403]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.11.19-22.24.04:843][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.11.19-22.24.04:859][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.24.04:941][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.19-22.24.04:941][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.19-22.24.04:968][511]LogSavePackage: Moving output files for package: /Game/Character/BP_TopDownChar
+[2024.11.19-22.24.04:969][511]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_TopDownCharCE00FF0C418F140F497123BCAA31E10E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Character/BP_TopDownChar.uasset'
+[2024.11.19-22.24.04:987][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.699 ms (total: 15.6 sec)
+[2024.11.19-22.24.05:059][511]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-22.24.05:059][511]LogContentValidation: Enabled validators:
+[2024.11.19-22.24.05:059][511]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.24.05:059][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.24.05:059][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.24.05:059][511]LogContentValidation: Display: Validating asset /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.19-22.24.05:059][511]AssetCheck: /Game/Character/BP_TopDownChar Validating asset
+[2024.11.19-22.25.27:190][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.11.19-22.25.27:195][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Turkey' took 0.043
+[2024.11.19-22.25.42:115][752]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.25.42:138][752]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.25.42:138][752]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.25.42:153][752]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 13.696 ms (total: 351.642 ms)
+[2024.11.19-22.25.42:154][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.25.42:155][752]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.25.42:178][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023002s)
+[2024.11.19-22.25.42:178][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.023093s)
+[2024.11.19-22.25.42:215][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.11.19-22.25.42:218][752]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.25.42:220][752]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.25.42:220][752]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.25.42:220][752]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.25.42:220][752]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.25.42:234][752]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.25.42:234][752]LogWorldPartition: Display: WorldPartition initialize took 12.776 ms (total: 2.26 sec)
+[2024.11.19-22.25.42:234][752]LogPlayLevel: PIE: World Init took: (0.015387s)
+[2024.11.19-22.25.42:243][752]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.11.19-22.25.42:243][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.25.42:243][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.25.42:243][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.25.42:243][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.25.42:243][752]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.25.42:243][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.25.42:244][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.25.42:244][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.25.42:244][752]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.25.42:244][752]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.25.42:244][752]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.25.42:246][752]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.25.42:285][752]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.25.42:286][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.25.42:286][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.25.42:286][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.25.42:288][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.11.19-22.25.42:288][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.11.19-22.25.42:291][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.11.19-22.25.42:291][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.11.19-22.25.42:291][752]LogInit: FAudioDevice initialized with ID 27.
+[2024.11.19-22.25.42:291][752]LogAudio: Display: Audio Device (ID: 27) registered with world 'Turkey'.
+[2024.11.19-22.25.42:291][752]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.11.19-22.25.42:298][752]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.25.42:302][752]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.25.42
+[2024.11.19-22.25.42:302][752]LogWorld: Bringing up level for play took: 0.002811
+[2024.11.19-22.25.42:306][752]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.11.19-22.25.42:317][752]LogStreaming: Display: FlushAsyncLoading(): 46 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.25.42:703][752]PIE: Server logged in
+[2024.11.19-22.25.42:706][752]PIE: Play in editor total start time 0.571 seconds.
+[2024.11.19-22.26.24:189][158]LogCharacterMovement: Wave1Enemy_C_UAID_047BCBCD5817F23002_1540493775 is stuck and failed to move! Velocity: X=143.92 Y=79.45 Z=0.00 Location: X=-2465.69 Y=-2387.43 Z=88.13 Normal: X=-0.95 Y=0.00 Z=-0.33 PenetrationDepth:4.276 Actor:Wave1Enemy_C_UAID_047BCBCD5817F33002_2057192952 Component:covid_Sprite_0 BoneName:None (0 other events since notify)
+[2024.11.19-22.27.21:226][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.27.21:226][166]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.27.21:254][166]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.27.21:255][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.27.21:255][166]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.27.21:255][166]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.27.21:255][166]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.27.21:255][166]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.27.21:262][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.27.21:276][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.27.21:318][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.27.21:319][166]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.11.19-22.27.21:319][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.11.19-22.27.21:325][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.11.19-22.27.21:349][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2024.11.19-22.27.21:580][167]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.11.19-22.27.33:853][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4969.884766
+[2024.11.19-22.27.33:972][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.27.33:972][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4969.974609, Update Interval: 305.722229
+[2024.11.19-22.28.29:841][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.11.19-22.29.06:854][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.11.19-22.29.21:237][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.11.19-22.29.28:234][975]LogEditorTransaction: Undo Move Nodes
+[2024.11.19-22.29.33:782][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.11.19-22.29.38:534][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.19-22.29.38:547][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.29.38:626][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.19-22.29.38:627][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.19-22.29.38:645][532]LogSavePackage: Moving output files for package: /Game/Character/BP_TopDownChar
+[2024.11.19-22.29.38:646][532]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_TopDownChar19B6645C42AA0096017E02B123709161.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Character/BP_TopDownChar.uasset'
+[2024.11.19-22.29.38:649][532]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_UI] ([2] browsable assets)...
+[2024.11.19-22.29.38:653][532]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_UI.BP_UI]
+[2024.11.19-22.29.38:653][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_UI]
+[2024.11.19-22.29.38:653][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UI" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_UI.uasset" SILENT=true
+[2024.11.19-22.29.38:663][532]LogSavePackage: Moving output files for package: /Game/UI/BP_UI
+[2024.11.19-22.29.38:664][532]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_UI197E63A14DEDA9729E3337AB42A56F2C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_UI.uasset'
+[2024.11.19-22.29.38:674][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.534 ms (total: 15.7 sec)
+[2024.11.19-22.29.38:758][532]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.19-22.29.38:758][532]LogContentValidation: Enabled validators:
+[2024.11.19-22.29.38:758][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.29.38:758][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.29.38:758][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.29.38:758][532]LogContentValidation: Display: Validating asset /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.19-22.29.38:760][532]AssetCheck: /Game/Character/BP_TopDownChar Validating asset
+[2024.11.19-22.29.38:760][532]LogContentValidation: Display: Validating asset /Game/UI/BP_UI.BP_UI
+[2024.11.19-22.29.38:760][532]AssetCheck: /Game/UI/BP_UI Validating asset
+[2024.11.19-22.32.20:850][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.11.19-22.32.41:605][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.11.19-22.32.41:621][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.32.41:713][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Wave1Enemy] ([2] browsable assets)...
+[2024.11.19-22.32.41:713][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Wave1Enemy]
+[2024.11.19-22.32.41:713][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Wave1Enemy" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset" SILENT=true
+[2024.11.19-22.32.41:723][880]LogSavePackage: Moving output files for package: /Game/Enemies/Wave1Enemy
+[2024.11.19-22.32.41:725][880]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Wave1EnemyF48526454060FFB3BEB489AB2443B24E.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset'
+[2024.11.19-22.32.41:739][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.591 ms (total: 15.8 sec)
+[2024.11.19-22.32.41:811][880]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-22.32.41:811][880]LogContentValidation: Enabled validators:
+[2024.11.19-22.32.41:811][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.32.41:811][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.32.41:811][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.32.41:811][880]LogContentValidation: Display: Validating asset /Game/Enemies/Wave1Enemy.Wave1Enemy
+[2024.11.19-22.32.41:811][880]AssetCheck: /Game/Enemies/Wave1Enemy Validating asset
+[2024.11.19-22.33.15:340][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5311.370117
+[2024.11.19-22.33.16:344][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.33.16:344][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5312.036133, Update Interval: 347.575928
+[2024.11.19-22.34.19:943][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.11.19-22.34.25:036][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.11.19-22.34.25:051][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.34.25:110][869]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Wave1Enemy] ([2] browsable assets)...
+[2024.11.19-22.34.25:110][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Wave1Enemy]
+[2024.11.19-22.34.25:111][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Wave1Enemy" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset" SILENT=true
+[2024.11.19-22.34.25:122][869]LogSavePackage: Moving output files for package: /Game/Enemies/Wave1Enemy
+[2024.11.19-22.34.25:123][869]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Wave1Enemy569E75F841F9450F257EB49B3DADE2D9.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset'
+[2024.11.19-22.34.25:135][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.051 ms (total: 15.9 sec)
+[2024.11.19-22.34.25:226][869]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.19-22.34.25:226][869]LogContentValidation: Enabled validators:
+[2024.11.19-22.34.25:226][869]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.34.25:226][869]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.34.25:226][869]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.34.25:226][869]LogContentValidation: Display: Validating asset /Game/Enemies/Wave1Enemy.Wave1Enemy
+[2024.11.19-22.34.25:226][869]AssetCheck: /Game/Enemies/Wave1Enemy Validating asset
+[2024.11.19-22.37.50:938][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.11.19-22.38.49:703][788]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.11.19-22.39.30:456][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.11.19-22.39.41:876][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.11.19-22.39.44:024][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.39.44:050][749]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.39.44:050][749]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.39.44:064][749]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 14.876 ms (total: 366.519 ms)
+[2024.11.19-22.39.44:065][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.39.44:066][749]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.39.44:085][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018927s)
+[2024.11.19-22.39.44:085][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.019018s)
+[2024.11.19-22.39.44:117][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.11.19-22.39.44:134][749]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.39.44:136][749]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.39.44:136][749]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.39.44:136][749]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.39.44:136][749]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.39.44:152][749]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.39.44:152][749]LogWorldPartition: Display: WorldPartition initialize took 16.082 ms (total: 2.28 sec)
+[2024.11.19-22.39.44:152][749]LogPlayLevel: PIE: World Init took: (0.018188s)
+[2024.11.19-22.39.44:162][749]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.11.19-22.39.44:162][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.39.44:162][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.39.44:162][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.39.44:162][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.39.44:162][749]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.39.44:162][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.39.44:163][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.39.44:163][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.39.44:163][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.39.44:163][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.39.44:163][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.39.44:166][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.39.44:215][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.39.44:215][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.39.44:217][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.39.44:217][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.39.44:219][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.11.19-22.39.44:219][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.11.19-22.39.44:223][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.11.19-22.39.44:223][749]LogInit: FAudioDevice initialized with ID 28.
+[2024.11.19-22.39.44:223][749]LogAudio: Display: Audio Device (ID: 28) registered with world 'Turkey'.
+[2024.11.19-22.39.44:223][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.11.19-22.39.44:223][749]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.11.19-22.39.44:232][749]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.39.44:234][749]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.39.44
+[2024.11.19-22.39.44:235][749]LogWorld: Bringing up level for play took: 0.002766
+[2024.11.19-22.39.44:239][749]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.11.19-22.39.44:248][749]LogStreaming: Display: FlushAsyncLoading(): 46 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.39.44:664][749]PIE: Server logged in
+[2024.11.19-22.39.44:666][749]PIE: Play in editor total start time 0.621 seconds.
+[2024.11.19-22.39.55:103][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.39.55:103][ 77]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.39.55:141][ 77]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.39.55:141][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.39.55:142][ 77]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.39.55:142][ 77]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.39.55:142][ 77]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.39.55:142][ 77]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.39.55:149][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.39.55:164][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.39.55:205][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.39.55:205][ 77]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.11.19-22.39.55:207][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.11.19-22.39.55:209][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.11.19-22.39.55:230][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2024.11.19-22.39.55:452][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.11.19-22.39.55:642][ 78]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5711.616211
+[2024.11.19-22.39.55:794][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.19-22.39.55:794][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5711.743164, Update Interval: 321.909241
+[2024.11.19-22.39.58:050][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.11.19-22.39.58:066][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.39.58:145][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Wave1Enemy] ([2] browsable assets)...
+[2024.11.19-22.39.58:145][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Wave1Enemy]
+[2024.11.19-22.39.58:145][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Wave1Enemy" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset" SILENT=true
+[2024.11.19-22.39.58:158][179]LogSavePackage: Moving output files for package: /Game/Enemies/Wave1Enemy
+[2024.11.19-22.39.58:158][179]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Wave1Enemy37A94D1246869B1DC3CD73B02C02C432.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset'
+[2024.11.19-22.39.58:161][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.19-22.39.58:161][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.19-22.39.58:185][179]LogSavePackage: Moving output files for package: /Game/Character/BP_TopDownChar
+[2024.11.19-22.39.58:186][179]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_TopDownChar0A7B143D44D8AA1CC5E7F3900AFF22F6.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Character/BP_TopDownChar.uasset'
+[2024.11.19-22.39.58:199][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.799 ms (total: 16.0 sec)
+[2024.11.19-22.39.58:293][179]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.19-22.39.58:293][179]LogContentValidation: Enabled validators:
+[2024.11.19-22.39.58:293][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.39.58:293][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.39.58:293][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.39.58:294][179]LogContentValidation: Display: Validating asset /Game/Enemies/Wave1Enemy.Wave1Enemy
+[2024.11.19-22.39.58:294][179]AssetCheck: /Game/Enemies/Wave1Enemy Validating asset
+[2024.11.19-22.39.58:294][179]LogContentValidation: Display: Validating asset /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.19-22.39.58:294][179]AssetCheck: /Game/Character/BP_TopDownChar Validating asset
+[2024.11.19-22.40.10:501][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.11.19-22.40.12:172][855]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.40.12:194][855]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.40.12:194][855]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.40.12:210][855]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 15.587 ms (total: 382.106 ms)
+[2024.11.19-22.40.12:211][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.40.12:212][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.40.12:236][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024084s)
+[2024.11.19-22.40.12:236][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.024211s)
+[2024.11.19-22.40.12:272][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.11.19-22.40.12:290][855]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.40.12:292][855]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.40.12:292][855]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.40.12:292][855]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.40.12:292][855]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.40.12:308][855]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.40.12:308][855]LogWorldPartition: Display: WorldPartition initialize took 15.835 ms (total: 2.29 sec)
+[2024.11.19-22.40.12:308][855]LogPlayLevel: PIE: World Init took: (0.018057s)
+[2024.11.19-22.40.12:319][855]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.40.12:319][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.40.12:319][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.40.12:319][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.40.12:319][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.40.12:319][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.40.12:323][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.40.12:369][855]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.40.12:369][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.40.12:369][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.40.12:369][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.40.12:370][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.11.19-22.40.12:370][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.11.19-22.40.12:374][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.11.19-22.40.12:374][855]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.11.19-22.40.12:374][855]LogInit: FAudioDevice initialized with ID 29.
+[2024.11.19-22.40.12:374][855]LogAudio: Display: Audio Device (ID: 29) registered with world 'Turkey'.
+[2024.11.19-22.40.12:374][855]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.11.19-22.40.12:382][855]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.40.12:385][855]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.40.12
+[2024.11.19-22.40.12:385][855]LogWorld: Bringing up level for play took: 0.002992
+[2024.11.19-22.40.12:389][855]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.11.19-22.40.12:401][855]LogStreaming: Display: FlushAsyncLoading(): 46 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.40.12:832][855]PIE: Server logged in
+[2024.11.19-22.40.12:834][855]PIE: Play in editor total start time 0.643 seconds.
+[2024.11.19-22.40.19:764][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.40.19:764][ 87]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.40.19:797][ 87]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.40.19:797][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.40.19:797][ 87]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.40.19:798][ 87]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.40.19:798][ 87]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.40.19:798][ 87]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.40.19:805][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.40.19:829][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.40.19:876][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.40.19:876][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.11.19-22.40.19:877][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.11.19-22.40.19:881][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.11.19-22.40.19:906][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2024.11.19-22.40.20:153][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.11.19-22.40.24:370][275]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.40.24:370][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.40.24:389][275]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.40.24:389][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.40.24:515][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.11.19-22.40.57:835][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.11.19-22.40.59:059][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.40.59:080][127]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.40.59:080][127]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.40.59:098][127]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 16.824 ms (total: 398.930 ms)
+[2024.11.19-22.40.59:098][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.40.59:099][127]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.40.59:129][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029590s)
+[2024.11.19-22.40.59:130][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.029666s)
+[2024.11.19-22.40.59:163][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.11.19-22.40.59:184][127]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.40.59:186][127]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.40.59:186][127]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.40.59:186][127]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.40.59:186][127]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.40.59:203][127]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.40.59:203][127]LogWorldPartition: Display: WorldPartition initialize took 17.222 ms (total: 2.31 sec)
+[2024.11.19-22.40.59:203][127]LogPlayLevel: PIE: World Init took: (0.019454s)
+[2024.11.19-22.40.59:215][127]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.40.59:215][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.40.59:215][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.40.59:215][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.40.59:215][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.40.59:215][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.40.59:220][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.40.59:269][127]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.40.59:270][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.40.59:270][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.40.59:270][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.40.59:271][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.11.19-22.40.59:271][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.11.19-22.40.59:274][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.11.19-22.40.59:274][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.11.19-22.40.59:274][127]LogInit: FAudioDevice initialized with ID 30.
+[2024.11.19-22.40.59:274][127]LogAudio: Display: Audio Device (ID: 30) registered with world 'Turkey'.
+[2024.11.19-22.40.59:274][127]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.11.19-22.40.59:283][127]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.40.59:287][127]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.40.59
+[2024.11.19-22.40.59:287][127]LogWorld: Bringing up level for play took: 0.003443
+[2024.11.19-22.40.59:293][127]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.11.19-22.40.59:319][127]LogStreaming: Display: FlushAsyncLoading(): 42 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.40.59:792][127]PIE: Server logged in
+[2024.11.19-22.40.59:794][127]PIE: Play in editor total start time 0.717 seconds.
+[2024.11.19-22.41.05:426][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.41.05:426][312]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.41.05:461][312]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.41.05:461][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.41.05:461][312]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.41.05:462][312]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.41.05:462][312]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.41.05:462][312]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.41.05:470][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.41.05:487][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.41.05:530][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.41.05:530][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.11.19-22.41.05:530][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.11.19-22.41.05:534][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.11.19-22.41.05:557][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.11.19-22.41.05:788][313]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.11.19-22.41.13:435][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.11.19-22.41.14:585][674]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.41.14:602][674]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.41.14:603][674]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.41.14:620][674]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 17.210 ms (total: 416.140 ms)
+[2024.11.19-22.41.14:621][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.41.14:622][674]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.41.14:651][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028790s)
+[2024.11.19-22.41.14:651][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.028911s)
+[2024.11.19-22.41.14:688][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.11.19-22.41.14:710][674]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.41.14:712][674]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.41.14:712][674]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.41.14:712][674]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.41.14:713][674]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.41.14:729][674]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.41.14:729][674]LogWorldPartition: Display: WorldPartition initialize took 16.910 ms (total: 2.33 sec)
+[2024.11.19-22.41.14:729][674]LogPlayLevel: PIE: World Init took: (0.019194s)
+[2024.11.19-22.41.14:739][674]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.41.14:740][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.41.14:740][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.41.14:740][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.41.14:740][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.41.14:740][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.41.14:743][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.41.14:795][674]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.41.14:795][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.41.14:796][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.41.14:796][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.41.14:796][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.11.19-22.41.14:796][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.11.19-22.41.14:800][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.11.19-22.41.14:800][674]LogInit: FAudioDevice initialized with ID 31.
+[2024.11.19-22.41.14:800][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.11.19-22.41.14:800][674]LogAudio: Display: Audio Device (ID: 31) registered with world 'Turkey'.
+[2024.11.19-22.41.14:800][674]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.11.19-22.41.14:808][674]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.41.14:812][674]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.41.14
+[2024.11.19-22.41.14:813][674]LogWorld: Bringing up level for play took: 0.003524
+[2024.11.19-22.41.14:817][674]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.11.19-22.41.14:844][674]LogStreaming: Display: FlushAsyncLoading(): 42 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.41.15:284][674]PIE: Server logged in
+[2024.11.19-22.41.15:286][674]PIE: Play in editor total start time 0.686 seconds.
+[2024.11.19-22.41.31:036][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.41.31:036][230]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.41.31:073][230]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.41.31:074][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.41.31:074][230]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.41.31:075][230]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.41.31:075][230]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.41.31:075][230]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.41.31:081][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.41.31:094][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.41.31:138][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.41.31:139][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.11.19-22.41.31:139][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.11.19-22.41.31:142][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.11.19-22.41.31:166][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.11.19-22.41.31:402][231]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.11.19-22.41.45:177][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.41.45:206][977]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.41.45:207][977]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.41.45:224][977]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 17.500 ms (total: 433.641 ms)
+[2024.11.19-22.41.45:225][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.41.45:227][977]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.41.45:250][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024338s)
+[2024.11.19-22.41.45:250][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.024424s)
+[2024.11.19-22.41.45:289][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.11.19-22.41.45:303][977]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.41.45:305][977]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.41.45:305][977]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.41.45:305][977]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.41.45:305][977]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.41.45:321][977]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.41.45:321][977]LogWorldPartition: Display: WorldPartition initialize took 17.176 ms (total: 2.34 sec)
+[2024.11.19-22.41.45:321][977]LogPlayLevel: PIE: World Init took: (0.019427s)
+[2024.11.19-22.41.45:333][977]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.11.19-22.41.45:333][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.41.45:333][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.41.45:333][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.41.45:333][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.41.45:334][977]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.41.45:334][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.41.45:334][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.41.45:334][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.41.45:334][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.41.45:334][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.41.45:334][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.41.45:338][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.41.45:388][977]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.41.45:389][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.41.45:389][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.41.45:389][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.41.45:389][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.11.19-22.41.45:389][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.11.19-22.41.45:394][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.11.19-22.41.45:394][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.11.19-22.41.45:394][977]LogInit: FAudioDevice initialized with ID 32.
+[2024.11.19-22.41.45:394][977]LogAudio: Display: Audio Device (ID: 32) registered with world 'Turkey'.
+[2024.11.19-22.41.45:394][977]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.11.19-22.41.45:402][977]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.41.45:406][977]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.41.45
+[2024.11.19-22.41.45:406][977]LogWorld: Bringing up level for play took: 0.003640
+[2024.11.19-22.41.45:410][977]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.11.19-22.41.45:434][977]LogStreaming: Display: FlushAsyncLoading(): 42 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.41.45:873][977]PIE: Server logged in
+[2024.11.19-22.41.45:876][977]PIE: Play in editor total start time 0.671 seconds.
+[2024.11.19-22.41.57:670][382]LogCharacterMovement: BP_TopDownChar_C_0 is stuck and failed to move! Velocity: X=0.00 Y=218.55 Z=0.00 Location: X=-536.34 Y=-62.07 Z=52.57 Normal: X=0.87 Y=-0.00 Z=0.49 PenetrationDepth:1.810 Actor:Wave1Enemy_C_UAID_047BCBCD5817F33002_2057192952 Component:covid_Sprite_0 BoneName:None (0 other events since notify)
+[2024.11.19-22.41.58:667][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.41.58:667][418]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.41.58:702][418]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.41.58:702][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.41.58:703][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.41.58:703][418]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.41.58:703][418]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.41.58:703][418]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.41.58:709][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.41.58:720][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.41.58:765][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.41.58:765][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.11.19-22.41.58:765][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.11.19-22.41.58:768][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.11.19-22.41.58:777][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.41.58:793][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.11.19-22.41.59:046][419]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.11.19-22.42.02:347][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.11.19-22.42.02:365][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.42.02:452][553]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/E/KC/DM77F4K8NS55EJBDK2J9AV
+[2024.11.19-22.42.02:453][553]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/DM77F4K8NS55EJBDK2J9AV1074E8354577491689482090EE06C917.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/E/KC/DM77F4K8NS55EJBDK2J9AV.uasset'
+[2024.11.19-22.42.02:458][553]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Turkey/A/W5/R1SIUX67Z7BY7HVA67BNK1
+[2024.11.19-22.42.02:459][553]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/R1SIUX67Z7BY7HVA67BNK157B26684475B34E091E5DAB9325B971C.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/__ExternalActors__/Turkey/A/W5/R1SIUX67Z7BY7HVA67BNK1.uasset'
+[2024.11.19-22.42.02:462][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Wave1Enemy] ([2] browsable assets)...
+[2024.11.19-22.42.02:462][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Wave1Enemy]
+[2024.11.19-22.42.02:462][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Wave1Enemy" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset" SILENT=true
+[2024.11.19-22.42.02:476][553]LogSavePackage: Moving output files for package: /Game/Enemies/Wave1Enemy
+[2024.11.19-22.42.02:477][553]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Wave1Enemy3C69EDFC4239A43522C472B46A8BE3A1.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Enemies/Wave1Enemy.uasset'
+[2024.11.19-22.42.02:490][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.829 ms (total: 16.1 sec)
+[2024.11.19-22.42.02:579][553]LogContentValidation: Display: Starting to validate 3 assets
+[2024.11.19-22.42.02:579][553]LogContentValidation: Enabled validators:
+[2024.11.19-22.42.02:579][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.42.02:579][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.42.02:579][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.42.02:580][553]LogContentValidation: Display: Validating asset /Game/Turkey.Turkey
+[2024.11.19-22.42.02:580][553]AssetCheck: /Game/Turkey Validating asset
+[2024.11.19-22.42.02:580][553]LogContentValidation: Display: Validating asset /Game/Enemies/Wave1Enemy.Wave1Enemy
+[2024.11.19-22.42.02:580][553]AssetCheck: /Game/Enemies/Wave1Enemy Validating asset
+[2024.11.19-22.42.03:905][626]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.42.03:906][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.42.04:064][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.11.19-22.42.14:101][174]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.19-22.42.24:790][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.11.19-22.42.35:223][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.11.19-22.42.38:341][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.42.38:369][406]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.42.38:369][406]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.42.38:387][406]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 17.988 ms (total: 451.629 ms)
+[2024.11.19-22.42.38:387][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.42.38:388][406]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.42.38:409][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019579s)
+[2024.11.19-22.42.38:409][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.019667s)
+[2024.11.19-22.42.38:444][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.11.19-22.42.38:456][406]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.42.38:457][406]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.42.38:457][406]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.42.38:457][406]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.42.38:457][406]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.42.38:473][406]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.42.38:473][406]LogWorldPartition: Display: WorldPartition initialize took 15.773 ms (total: 2.36 sec)
+[2024.11.19-22.42.38:473][406]LogPlayLevel: PIE: World Init took: (0.017752s)
+[2024.11.19-22.42.38:483][406]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.11.19-22.42.38:483][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.42.38:483][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.42.38:483][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.42.38:483][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.42.38:483][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.42.38:483][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.42.38:484][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.42.38:484][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.42.38:484][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.42.38:484][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.42.38:484][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.42.38:487][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.42.38:524][406]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.42.38:524][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.42.38:524][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.42.38:524][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.42.38:525][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.11.19-22.42.38:525][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.11.19-22.42.38:528][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.11.19-22.42.38:528][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.11.19-22.42.38:528][406]LogInit: FAudioDevice initialized with ID 33.
+[2024.11.19-22.42.38:528][406]LogAudio: Display: Audio Device (ID: 33) registered with world 'Turkey'.
+[2024.11.19-22.42.38:528][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.11.19-22.42.38:536][406]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.42.38:539][406]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.42.38
+[2024.11.19-22.42.38:539][406]LogWorld: Bringing up level for play took: 0.002655
+[2024.11.19-22.42.38:543][406]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.11.19-22.42.38:552][406]LogStreaming: Display: FlushAsyncLoading(): 46 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.42.38:988][406]PIE: Server logged in
+[2024.11.19-22.42.38:991][406]PIE: Play in editor total start time 0.626 seconds.
+[2024.11.19-22.42.50:648][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.42.50:648][816]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.42.50:680][816]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.42.50:681][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.42.50:681][816]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.42.50:681][816]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.42.50:682][816]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.42.50:682][816]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.42.50:688][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.42.50:702][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.42.50:744][816]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.19-22.42.50:745][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.11.19-22.42.50:745][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.11.19-22.42.50:747][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.11.19-22.42.50:756][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.42.50:771][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.11.19-22.42.51:033][817]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.11.19-22.42.53:107][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.11.19-22.42.53:122][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.19-22.42.53:188][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_TopDownChar] ([2] browsable assets)...
+[2024.11.19-22.42.53:188][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_TopDownChar]
+[2024.11.19-22.42.53:211][910]LogSavePackage: Moving output files for package: /Game/Character/BP_TopDownChar
+[2024.11.19-22.42.53:212][910]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_TopDownCharE4AABE384ACDBF516D0F2785762CAB04.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/Character/BP_TopDownChar.uasset'
+[2024.11.19-22.42.53:214][910]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BP_UI] ([2] browsable assets)...
+[2024.11.19-22.42.53:219][910]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BP_UI.BP_UI]
+[2024.11.19-22.42.53:219][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_UI]
+[2024.11.19-22.42.53:219][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_UI" FILE="../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_UI.uasset" SILENT=true
+[2024.11.19-22.42.53:228][910]LogSavePackage: Moving output files for package: /Game/UI/BP_UI
+[2024.11.19-22.42.53:229][910]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_UI6E6237274DC20A2B72B263919AA2EFA0.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Content/UI/BP_UI.uasset'
+[2024.11.19-22.42.53:239][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.858 ms (total: 16.3 sec)
+[2024.11.19-22.42.53:286][910]LogContentValidation: Display: Starting to validate 2 assets
+[2024.11.19-22.42.53:286][910]LogContentValidation: Enabled validators:
+[2024.11.19-22.42.53:286][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.19-22.42.53:286][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.19-22.42.53:286][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.19-22.42.53:286][910]LogContentValidation: Display: Validating asset /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.19-22.42.53:287][910]AssetCheck: /Game/Character/BP_TopDownChar Validating asset
+[2024.11.19-22.42.53:287][910]LogContentValidation: Display: Validating asset /Game/UI/BP_UI.BP_UI
+[2024.11.19-22.42.53:287][910]AssetCheck: /Game/UI/BP_UI Validating asset
+[2024.11.19-22.43.01:974][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.11.19-22.43.03:226][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.19-22.43.03:254][386]LogContentBundle: [Turkey(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.19-22.43.03:254][386]LogWorldPartition: Display: GenerateStreaming for 'Turkey' started...
+[2024.11.19-22.43.03:270][386]LogWorldPartition: Display: GenerateStreaming for 'Turkey' took 15.875 ms (total: 467.505 ms)
+[2024.11.19-22.43.03:271][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.19-22.43.03:272][386]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Turkey
+[2024.11.19-22.43.03:298][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026269s)
+[2024.11.19-22.43.03:298][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Turkey.Turkey to /Game/UEDPIE_0_Turkey.Turkey (0.026360s)
+[2024.11.19-22.43.03:332][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.11.19-22.43.03:352][386]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.19-22.43.03:354][386]LogWorldPartition: ULevel::OnLevelLoaded(Turkey)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.19-22.43.03:354][386]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.19-22.43.03:354][386]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Turkey.Turkey, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.19-22.43.03:354][386]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.19-22.43.03:370][386]LogContentBundle: [Turkey(Standalone)] Creating new container.
+[2024.11.19-22.43.03:371][386]LogWorldPartition: Display: WorldPartition initialize took 16.491 ms (total: 2.38 sec)
+[2024.11.19-22.43.03:371][386]LogPlayLevel: PIE: World Init took: (0.018991s)
+[2024.11.19-22.43.03:381][386]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.19-22.43.03:382][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.19-22.43.03:382][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.19-22.43.03:382][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.19-22.43.03:382][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.19-22.43.03:382][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.19-22.43.03:386][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.19-22.43.03:429][386]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.19-22.43.03:430][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.19-22.43.03:430][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.19-22.43.03:430][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.19-22.43.03:430][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.11.19-22.43.03:430][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.11.19-22.43.03:433][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.11.19-22.43.03:433][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.11.19-22.43.03:433][386]LogInit: FAudioDevice initialized with ID 34.
+[2024.11.19-22.43.03:433][386]LogAudio: Display: Audio Device (ID: 34) registered with world 'Turkey'.
+[2024.11.19-22.43.03:433][386]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.19-22.43.03:440][386]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.19-22.43.03:442][386]LogWorld: Bringing World /Game/UEDPIE_0_Turkey.Turkey up for play (max tick rate 60) at 2024.11.19-16.43.03
+[2024.11.19-22.43.03:442][386]LogWorld: Bringing up level for play took: 0.002732
+[2024.11.19-22.43.03:446][386]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.11.19-22.43.03:465][386]LogStreaming: Display: FlushAsyncLoading(): 42 QueuedPackages, 0 AsyncPackages
+[2024.11.19-22.43.03:856][386]PIE: Server logged in
+[2024.11.19-22.43.03:859][386]PIE: Play in editor total start time 0.607 seconds.
+[2024.11.19-22.43.15:889][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.43.15:890][821]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Turkey
+[2024.11.19-22.43.15:926][821]LogWorld: UWorld::CleanupWorld for Turkey, bSessionEnded=true, bCleanupResources=true
+[2024.11.19-22.43.15:927][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.43.15:928][821]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Turkey.Turkey
+[2024.11.19-22.43.15:928][821]LogContentBundle: [Turkey(Standalone)] Deleting container.
+[2024.11.19-22.43.15:928][821]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.19-22.43.15:929][821]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.19-22.43.15:935][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.19-22.43.15:944][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.19-22.43.15:987][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.19-22.43.15:987][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.19-22.43.15:988][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.19-22.43.15:990][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.19-22.43.16:012][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.11.19-22.43.16:257][822]LogPlayLevel: Display: Destroying online subsystem :Context_41
