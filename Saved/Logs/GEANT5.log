@@ -22263,3 +22263,4 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-02.14.00:126][900]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.036
 [2024.11.22-02.16.36:123][364]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
 [2024.11.22-02.16.37:021][365]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
+[2024.11.22-02.16.59:433][745]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
