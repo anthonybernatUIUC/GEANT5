@@ -1148,3 +1148,140 @@ Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set ene
 [2024.11.22-01.43.47:481][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2100.859619
 [2024.11.22-01.43.48:481][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.22-01.43.48:481][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2101.526855, Update Interval: 352.430176
+[2024.11.22-01.50.24:804][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-01.50.24:825][999]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.22-01.50.24:825][999]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.11.22-01.50.24:841][999]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 15.083 ms (total: 30.181 ms)
+[2024.11.22-01.50.24:842][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-01.50.24:842][999]BlueprintLog: Warning: Blueprint failed to compile:  BP_Slash
+[2024.11.22-01.50.28:493][999]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Slash.BP_Slash
+[2024.11.22-01.50.28:747][999]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.11.22-01.50.31:933][ 68]LogSlate: Window 'Message Log' being destroyed
+[2024.11.22-01.50.31:949][ 68]LogSlate: Window 'Message Log' being destroyed
+[2024.11.22-01.50.37:934][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2511.316406
+[2024.11.22-01.50.38:074][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.50.38:076][265]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2511.428955, Update Interval: 346.087219
+[2024.11.22-01.50.51:638][473]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Get enemyHealth
+[2024.11.22-01.50.51:638][473]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set enemyHealth
+[2024.11.22-01.50.51:640][473]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.50.51:640][473]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.50.51:803][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.11.22-01.51.42:530][254]LogSlate: Window 'BP_Slash' being destroyed
+[2024.11.22-01.51.43:377][302]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Get enemyHealth
+[2024.11.22-01.51.43:377][302]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set enemyHealth
+[2024.11.22-01.51.43:378][302]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.51.43:378][302]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.51.43:523][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.11.22-01.51.46:156][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.11.22-01.51.48:166][537]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Get enemyHealth
+[2024.11.22-01.51.48:168][537]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set enemyHealth
+[2024.11.22-01.51.48:169][537]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.51.48:169][537]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.51.48:300][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.11.22-01.54.28:466][657]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-01.54.28:466][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-01.54.28:555][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.11.22-01.54.31:374][824]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Slash.BP_Slash
+[2024.11.22-01.54.49:257][ 21]LogSlate: Took 0.011420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.11.22-01.54.52:972][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.11.22-01.54.59:977][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.11.22-01.55.01:915][953]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Get enemyHealth
+[2024.11.22-01.55.01:915][953]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set enemyHealth
+[2024.11.22-01.55.01:917][953]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.55.01:917][953]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.55.02:053][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.11.22-01.55.17:427][ 22]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Get enemyHealth
+[2024.11.22-01.55.17:427][ 22]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set enemyHealth
+[2024.11.22-01.55.17:428][ 22]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.55.17:428][ 22]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.55.17:476][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.11.22-01.56.09:715][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.11.22-01.56.11:308][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-01.56.11:339][388]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.22-01.56.11:340][388]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.11.22-01.56.11:355][388]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 15.928 ms (total: 46.109 ms)
+[2024.11.22-01.56.11:362][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-01.56.11:362][388]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-01.56.11:381][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018034s)
+[2024.11.22-01.56.11:381][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.018120s)
+[2024.11.22-01.56.11:418][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.11.22-01.56.11:424][388]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-01.56.11:425][388]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.22-01.56.11:425][388]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.22-01.56.11:425][388]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.22-01.56.11:425][388]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.22-01.56.11:442][388]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.11.22-01.56.11:442][388]LogWorldPartition: Display: WorldPartition initialize took 16.098 ms (total: 554.473 ms)
+[2024.11.22-01.56.11:442][388]LogPlayLevel: PIE: World Init took: (0.018296s)
+[2024.11.22-01.56.11:451][388]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-01.56.11:451][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-01.56.11:451][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-01.56.11:451][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-01.56.11:451][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-01.56.11:451][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-01.56.11:453][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-01.56.11:498][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.22-01.56.11:499][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-01.56.11:499][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-01.56.11:499][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-01.56.11:501][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.11.22-01.56.11:501][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.11.22-01.56.11:504][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.11.22-01.56.11:504][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.11.22-01.56.11:504][388]LogInit: FAudioDevice initialized with ID 3.
+[2024.11.22-01.56.11:504][388]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2024.11.22-01.56.11:504][388]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.22-01.56.11:511][388]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.22-01.56.11:514][388]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.11.21-19.56.11
+[2024.11.22-01.56.11:514][388]LogWorld: Bringing up level for play took: 0.002629
+[2024.11.22-01.56.11:518][388]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.11.22-01.56.11:538][388]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.11.22-01.56.11:943][388]PIE: Server logged in
+[2024.11.22-01.56.11:944][388]PIE: Play in editor total start time 0.605 seconds.
+[2024.11.22-01.56.25:246][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-01.56.25:246][851]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-01.56.25:290][851]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-01.56.25:291][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-01.56.25:291][851]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.11.22-01.56.25:291][851]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.22-01.56.25:291][851]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-01.56.25:291][851]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-01.56.25:296][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-01.56.25:308][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-01.56.25:343][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-01.56.25:344][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.11.22-01.56.25:344][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.22-01.56.25:347][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.11.22-01.56.25:377][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.11.22-01.56.25:465][852]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.11.22-01.56.53:333][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.11.22-01.56.53:340][104]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.044
+[2024.11.22-01.56.53:349][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/Wave1Enemy] ([2] browsable assets)...
+[2024.11.22-01.56.53:349][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Wave1Enemy]
+[2024.11.22-01.56.53:367][104]LogPackageLocalizationCache: Processed 53 localized package path(s) for 1 prioritized culture(s) in 0.014884 seconds
+[2024.11.22-01.56.53:387][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/Wave1Enemy_Auto1
+[2024.11.22-01.56.53:387][104]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Wave1Enemy_Auto1F5DAAE474E2416A0F12484901D1D36F1.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/Enemies/Wave1Enemy_Auto1.uasset'
+[2024.11.22-01.56.53:393][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/BP_Slash] ([2] browsable assets)...
+[2024.11.22-01.56.53:393][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BP_Slash]
+[2024.11.22-01.56.53:403][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/BP_Slash_Auto1
+[2024.11.22-01.56.53:403][104]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_Slash_Auto10D813C8640A8DAA290BFB1BDA9E99220.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/Weapons/BP_Slash_Auto1.uasset'
+[2024.11.22-01.56.53:404][104]LogFileHelpers: Auto-saving content packages took 0.057
+[2024.11.22-01.57.07:904][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2901.298340
+[2024.11.22-01.57.08:901][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.57.08:901][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2901.963135, Update Interval: 305.041046
