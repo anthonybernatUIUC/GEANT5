@@ -1129,3 +1129,22 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-01.34.44:029][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
 [2024.11.22-01.34.44:106][161]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2024.11.22-01.34.46:264][231]LogSlate: Took 0.000901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.22-01.37.22:658][ 57]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1716.036499
+[2024.11.22-01.37.23:658][ 60]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.37.23:658][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1716.703613, Update Interval: 330.273743
+[2024.11.22-01.43.03:188][716]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Get enemyHealth
+[2024.11.22-01.43.03:188][716]LogBlueprint: Warning: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] Could not find a variable named "enemyHealth" in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'.
+Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set enemyHealth
+[2024.11.22-01.43.03:191][716]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.43.03:191][716]LogBlueprint: Error: [AssetLog] C:\Users\antho\Downloads\TopDownCharacter-20241114T215331Z-001\GEANT5-MAIN\Content\Weapons\BP_Slash.uasset: [Compiler] The property associated with  Enemy Health  could not be found in '/Game/Enemies/Wave1Enemy.Wave1Enemy_C'
+[2024.11.22-01.43.03:261][716]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Sword.BP_Sword
+[2024.11.22-01.43.03:272][716]LogTexture: Display: Building textures: /Game/Weapons/Weapon_Sprites/pixelsword.pixelsword (TFO_AutoDXT, 1000x1000 x1x1x1) (Required Memory Estimate: 122.045726 MB), EncodeSpeed: Fast
+[2024.11.22-01.43.03:300][716]LogTexture: Display: Building textures: /Game/Weapons/Weapon_Sprites/slash-01.slash-01 (BGRA8, 2753x1343 x1x1x1) (Required Memory Estimate: 108.193161 MB), EncodeSpeed: Fast
+[2024.11.22-01.43.15:572][956]LogSlate: Window 'BP_Sword' being destroyed
+[2024.11.22-01.43.15:591][956]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-01.43.15:591][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-01.43.15:720][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.11.22-01.43.47:481][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2100.859619
+[2024.11.22-01.43.48:481][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.43.48:481][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2101.526855, Update Interval: 352.430176
