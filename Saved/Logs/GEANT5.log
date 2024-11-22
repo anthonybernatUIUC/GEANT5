@@ -1347,3 +1347,284 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-00.48.02:779][843]LogContentValidation: Display: Validating asset /Game/Weapons/BP_Sword.BP_Sword
 [2024.11.22-00.48.02:779][843]AssetCheck: /Game/Weapons/BP_Sword Validating asset
 [2024.11.22-00.48.03:709][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.11.22-00.48.46:852][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 335.501648
+[2024.11.22-00.48.47:854][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-00.48.47:854][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 336.168945, Update Interval: 338.852509
+[2024.11.22-00.49.33:777][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/BP_TopDownChar.BP_TopDownChar
+[2024.11.22-00.51.26:286][904]LogEditorTransaction: Undo Delete current selection
+[2024.11.22-00.51.26:791][915]LogEditorTransaction: Undo Move Node
+[2024.11.22-00.51.27:313][937]LogEditorTransaction: Undo Resize Node
+[2024.11.22-00.51.27:787][957]LogEditorTransaction: Undo Move Node
+[2024.11.22-00.51.28:330][980]LogEditorTransaction: Undo Rename Node
+[2024.11.22-00.51.29:084][ 16]LogEditorTransaction: Undo Paste clipboard contents
+[2024.11.22-00.52.03:226][863]LogEditorTransaction: Undo Move Node
+[2024.11.22-00.52.03:513][865]LogEditorTransaction: Undo Resize Node
+[2024.11.22-00.52.03:794][866]LogEditorTransaction: Undo Resize Node
+[2024.11.22-00.52.04:042][867]LogEditorTransaction: Undo Move Node
+[2024.11.22-00.52.04:293][868]LogEditorTransaction: Undo Rename Node
+[2024.11.22-00.52.04:648][874]LogEditorTransaction: Undo Paste clipboard contents
+[2024.11.22-00.52.05:214][892]LogEditorTransaction: Undo Resize Node
+[2024.11.22-00.52.07:737][  3]LogEditorTransaction: Undo Resize Node
+[2024.11.22-00.52.56:080][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-00.52.56:105][609]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/BP_Sword] ([2] browsable assets)...
+[2024.11.22-00.52.56:105][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BP_Sword]
+[2024.11.22-00.52.56:105][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_Sword" FILE="../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset" SILENT=true
+[2024.11.22-00.52.56:125][609]LogSavePackage: Moving output files for package: /Game/Weapons/BP_Sword
+[2024.11.22-00.52.56:126][609]LogSavePackage: Moving '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Saved/BP_Sword220A07B94C72D373746C2DB8128900EB.tmp' to '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset'
+[2024.11.22-00.52.56:140][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.348 ms (total: 278.737 ms)
+[2024.11.22-00.52.56:166][609]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-00.52.56:166][609]LogContentValidation: Enabled validators:
+[2024.11.22-00.52.56:166][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-00.52.56:166][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-00.52.56:166][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-00.52.56:167][609]LogContentValidation: Display: Validating asset /Game/Weapons/BP_Sword.BP_Sword
+[2024.11.22-00.52.56:167][609]AssetCheck: /Game/Weapons/BP_Sword Validating asset
+[2024.11.22-00.52.57:072][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.11.22-00.53.37:823][853]LogEditorTransaction: Undo Move Node
+[2024.11.22-00.53.38:500][869]LogEditorTransaction: Undo Paste clipboard contents
+[2024.11.22-00.54.04:903][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-00.54.04:938][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/BP_Sword] ([2] browsable assets)...
+[2024.11.22-00.54.04:938][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BP_Sword]
+[2024.11.22-00.54.04:938][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_Sword" FILE="../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset" SILENT=true
+[2024.11.22-00.54.04:963][274]LogSavePackage: Moving output files for package: /Game/Weapons/BP_Sword
+[2024.11.22-00.54.04:964][274]LogSavePackage: Moving '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Saved/BP_SwordE73B9F464292EEA32655A9B68842D8FD.tmp' to '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset'
+[2024.11.22-00.54.04:982][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.608 ms (total: 358.345 ms)
+[2024.11.22-00.54.05:019][274]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-00.54.05:019][274]LogContentValidation: Enabled validators:
+[2024.11.22-00.54.05:019][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-00.54.05:019][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-00.54.05:019][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-00.54.05:019][274]LogContentValidation: Display: Validating asset /Game/Weapons/BP_Sword.BP_Sword
+[2024.11.22-00.54.05:019][274]AssetCheck: /Game/Weapons/BP_Sword Validating asset
+[2024.11.22-00.54.05:428][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.11.22-00.54.08:600][436]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-00.54.08:614][436]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.22-00.54.08:614][436]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.11.22-00.54.08:622][436]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 8.077 ms (total: 22.558 ms)
+[2024.11.22-00.54.08:625][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-00.54.08:625][436]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-00.54.08:640][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014814s)
+[2024.11.22-00.54.08:640][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.014873s)
+[2024.11.22-00.54.08:664][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.11.22-00.54.08:668][436]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-00.54.08:669][436]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.22-00.54.08:669][436]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.22-00.54.08:669][436]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.22-00.54.08:669][436]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.22-00.54.08:680][436]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.11.22-00.54.08:680][436]LogWorldPartition: Display: WorldPartition initialize took 11.210 ms (total: 447.183 ms)
+[2024.11.22-00.54.08:680][436]LogPlayLevel: PIE: World Init took: (0.012732s)
+[2024.11.22-00.54.08:700][436]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-00.54.08:700][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-00.54.08:700][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-00.54.08:700][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-00.54.08:700][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-00.54.08:700][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-00.54.08:702][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-00.54.08:740][436]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.22-00.54.08:740][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-00.54.08:740][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-00.54.08:740][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-00.54.08:741][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.11.22-00.54.08:741][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.11.22-00.54.08:743][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.11.22-00.54.08:743][436]LogInit: FAudioDevice initialized with ID 4.
+[2024.11.22-00.54.08:743][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.11.22-00.54.08:743][436]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2024.11.22-00.54.08:743][436]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.22-00.54.08:746][436]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.22-00.54.08:749][436]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.11.21-18.54.08
+[2024.11.22-00.54.08:749][436]LogWorld: Bringing up level for play took: 0.002966
+[2024.11.22-00.54.08:752][436]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.11.22-00.54.08:762][436]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.11.22-00.54.09:133][436]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.22-00.54.09:133][436]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.11.22-00.54.09:152][436]PIE: Server logged in
+[2024.11.22-00.54.09:152][436]PIE: Play in editor total start time 0.543 seconds.
+[2024.11.22-00.54.11:910][530]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.54.11:910][530]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.22-00.54.11:910][530]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.11.22-00.54.13:413][620]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.54.14:915][710]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.54.16:427][800]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.54.17:920][889]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.54.17:924][889]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1594.141 Y=578.548 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.54.19:422][979]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.54.19:926][  9]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1436.787 Y=2079.894 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.54.20:089][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-00.54.20:089][ 17]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-00.54.20:106][ 17]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-00.54.20:107][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-00.54.20:107][ 17]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.11.22-00.54.20:108][ 17]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.22-00.54.20:108][ 17]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-00.54.20:108][ 17]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-00.54.20:111][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-00.54.20:116][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-00.54.20:137][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-00.54.20:138][ 17]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.11.22-00.54.20:138][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.22-00.54.20:139][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.11.22-00.54.20:155][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.22-00.54.20:213][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.11.22-00.54.30:029][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 678.680786
+[2024.11.22-00.54.30:120][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-00.54.30:120][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.754761, Update Interval: 357.339386
+[2024.11.22-00.55.26:253][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.11.22-00.55.26:804][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-00.55.26:832][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/BP_Sword] ([2] browsable assets)...
+[2024.11.22-00.55.26:832][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BP_Sword]
+[2024.11.22-00.55.26:832][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_Sword" FILE="../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset" SILENT=true
+[2024.11.22-00.55.26:852][541]LogSavePackage: Moving output files for package: /Game/Weapons/BP_Sword
+[2024.11.22-00.55.26:853][541]LogSavePackage: Moving '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Saved/BP_Sword03A12A7D44E3E1A7D638D381A60DFB45.tmp' to '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset'
+[2024.11.22-00.55.26:864][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.292 ms (total: 418.638 ms)
+[2024.11.22-00.55.26:893][541]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-00.55.26:893][541]LogContentValidation: Enabled validators:
+[2024.11.22-00.55.26:893][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-00.55.26:893][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-00.55.26:893][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-00.55.26:893][541]LogContentValidation: Display: Validating asset /Game/Weapons/BP_Sword.BP_Sword
+[2024.11.22-00.55.26:893][541]AssetCheck: /Game/Weapons/BP_Sword Validating asset
+[2024.11.22-00.55.29:970][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-00.55.29:981][722]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.22-00.55.29:981][722]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.11.22-00.55.29:988][722]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 6.789 ms (total: 29.348 ms)
+[2024.11.22-00.55.29:990][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-00.55.29:991][722]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-00.55.30:009][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018780s)
+[2024.11.22-00.55.30:009][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.018835s)
+[2024.11.22-00.55.30:033][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.11.22-00.55.30:037][722]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-00.55.30:038][722]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.22-00.55.30:038][722]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.22-00.55.30:038][722]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.22-00.55.30:038][722]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.22-00.55.30:050][722]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.11.22-00.55.30:050][722]LogWorldPartition: Display: WorldPartition initialize took 13.125 ms (total: 460.309 ms)
+[2024.11.22-00.55.30:050][722]LogPlayLevel: PIE: World Init took: (0.014550s)
+[2024.11.22-00.55.30:072][722]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-00.55.30:072][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-00.55.30:072][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-00.55.30:072][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-00.55.30:072][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-00.55.30:072][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-00.55.30:074][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-00.55.30:105][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.22-00.55.30:105][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-00.55.30:105][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-00.55.30:105][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-00.55.30:107][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.11.22-00.55.30:107][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.11.22-00.55.30:108][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.11.22-00.55.30:108][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.11.22-00.55.30:109][722]LogInit: FAudioDevice initialized with ID 5.
+[2024.11.22-00.55.30:109][722]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2024.11.22-00.55.30:109][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.22-00.55.30:112][722]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.22-00.55.30:114][722]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.11.21-18.55.30
+[2024.11.22-00.55.30:114][722]LogWorld: Bringing up level for play took: 0.002401
+[2024.11.22-00.55.30:117][722]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.11.22-00.55.30:125][722]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.11.22-00.55.30:560][722]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.22-00.55.30:560][722]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.11.22-00.55.30:584][722]PIE: Server logged in
+[2024.11.22-00.55.30:585][722]PIE: Play in editor total start time 0.608 seconds.
+[2024.11.22-00.55.32:330][815]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.32:330][815]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.22-00.55.32:330][815]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.11.22-00.55.33:834][902]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.34:351][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-99.597 Y=1204.723 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.55.35:344][988]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.36:347][ 47]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-501.171 Y=977.288 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.55.36:348][ 47]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1252.964 Y=-51.110 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.55.36:352][ 47]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-949.671 Y=1448.890 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.55.36:841][ 73]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.38:335][159]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.39:845][238]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.40:339][266]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1100.539 Y=2128.868 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-00.55.41:335][326]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.42:836][416]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-00.55.43:430][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-00.55.43:430][450]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-00.55.43:446][450]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-00.55.43:447][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-00.55.43:447][450]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.11.22-00.55.43:447][450]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.22-00.55.43:447][450]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-00.55.43:447][450]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-00.55.43:450][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-00.55.43:456][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-00.55.43:479][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-00.55.43:481][450]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.11.22-00.55.43:481][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.22-00.55.43:483][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.11.22-00.55.43:496][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.11.22-00.55.43:553][451]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.11.22-00.55.51:292][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.11.22-00.55.51:804][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-00.55.51:831][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/BP_Sword] ([2] browsable assets)...
+[2024.11.22-00.55.51:831][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BP_Sword]
+[2024.11.22-00.55.51:831][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_Sword" FILE="../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset" SILENT=true
+[2024.11.22-00.55.51:852][907]LogSavePackage: Moving output files for package: /Game/Weapons/BP_Sword
+[2024.11.22-00.55.51:853][907]LogSavePackage: Moving '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Saved/BP_Sword6021AE6D4E1DC3605C3C9D9B107045B5.tmp' to '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset'
+[2024.11.22-00.55.51:868][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.085 ms (total: 482.723 ms)
+[2024.11.22-00.55.51:900][907]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-00.55.51:900][907]LogContentValidation: Enabled validators:
+[2024.11.22-00.55.51:900][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-00.55.51:900][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-00.55.51:900][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-00.55.51:900][907]LogContentValidation: Display: Validating asset /Game/Weapons/BP_Sword.BP_Sword
+[2024.11.22-00.55.51:900][907]AssetCheck: /Game/Weapons/BP_Sword Validating asset
+[2024.11.22-01.00.32:383][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1041.035767
+[2024.11.22-01.00.32:475][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.00.32:475][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1041.106323, Update Interval: 307.760254
+[2024.11.22-01.02.17:497][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.22-01.02.17:525][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/BP_Sword] ([2] browsable assets)...
+[2024.11.22-01.02.17:525][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/BP_Sword]
+[2024.11.22-01.02.17:525][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_Sword" FILE="../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset" SILENT=true
+[2024.11.22-01.02.17:546][913]LogSavePackage: Moving output files for package: /Game/Weapons/BP_Sword
+[2024.11.22-01.02.17:546][913]LogSavePackage: Moving '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Saved/BP_Sword34EDE76C441951440DD348B2F28D3C55.tmp' to '../../../../../../Users/gnett/Documents/Unreal Projects/GEANT5/Content/Weapons/BP_Sword.uasset'
+[2024.11.22-01.02.17:558][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.575 ms (total: 544.299 ms)
+[2024.11.22-01.02.17:587][913]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.22-01.02.17:587][913]LogContentValidation: Enabled validators:
+[2024.11.22-01.02.17:587][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.22-01.02.17:587][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.22-01.02.17:587][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.22-01.02.17:587][913]LogContentValidation: Display: Validating asset /Game/Weapons/BP_Sword.BP_Sword
+[2024.11.22-01.02.17:588][913]AssetCheck: /Game/Weapons/BP_Sword Validating asset
+[2024.11.22-01.02.18:029][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.11.22-01.03.45:480][595]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Wave1AI.Wave1AI
+[2024.11.22-01.03.51:564][950]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-01.03.51:564][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-01.03.51:617][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.11.22-01.03.53:962][ 89]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Wave1Enemy.Wave1Enemy
+[2024.11.22-01.05.49:211][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1357.862305
+[2024.11.22-01.05.49:311][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.05.49:311][988]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1357.946411, Update Interval: 309.496155
+[2024.11.22-01.10.02:171][713]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Jabra Elite 7 Pro), InstanceID=1
+[2024.11.22-01.10.02:177][713]LogAudioMixer: Warning: Ignoring attempt to switch to device with unsupported params: Channels=0, SampleRate=0, Id={0.0.0.00000000}.{e7c7e591-6147-488c-b849-bbc2f899357d}, Name=Headphones (Jabra Elite 7 Pro)
+[2024.11.22-01.10.02:178][713]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=79460
+[2024.11.22-01.10.41:936][832]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.22-01.10.42:428][833]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5892796c-7154-4959-a2c1-d345be39cf49}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=205.95
+[2024.11.22-01.10.42:428][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-01.10.42:430][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-01.11.02:607][894]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Jabra Elite 7 Pro), InstanceID=1
+[2024.11.22-01.11.02:763][894]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=79460
+[2024.11.22-01.11.03:100][895]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e7c7e591-6147-488c-b849-bbc2f899357d}, Name=Headphones (Jabra Elite 7 Pro)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=138.89
+[2024.11.22-01.11.03:100][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.11.22-01.11.03:107][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.22-01.11.15:773][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1684.425659
+[2024.11.22-01.11.16:771][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.11.16:771][937]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1685.092529, Update Interval: 352.604156
