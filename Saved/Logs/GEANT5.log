@@ -22264,3 +22264,6 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-02.16.36:123][364]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
 [2024.11.22-02.16.37:021][365]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
 [2024.11.22-02.16.59:433][745]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
+[2024.11.22-02.18.33:491][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5722.173828
+[2024.11.22-02.18.34:494][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-02.18.34:495][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5722.843750, Update Interval: 309.834900
