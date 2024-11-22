@@ -1282,3 +1282,6 @@ Make sure '/Game/Enemies/Wave1Enemy.Wave1Enemy_C' has been compiled for  Set ene
 [2024.11.22-01.56.53:403][104]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/BP_Slash_Auto1
 [2024.11.22-01.56.53:403][104]LogSavePackage: Moving '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/BP_Slash_Auto10D813C8640A8DAA290BFB1BDA9E99220.tmp' to '../../../../../../Users/antho/Downloads/TopDownCharacter-20241114T215331Z-001/GEANT5-MAIN/Saved/Autosaves/Game/Weapons/BP_Slash_Auto1.uasset'
 [2024.11.22-01.56.53:404][104]LogFileHelpers: Auto-saving content packages took 0.057
+[2024.11.22-01.57.07:904][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2901.298340
+[2024.11.22-01.57.08:901][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-01.57.08:901][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2901.963135, Update Interval: 305.041046
