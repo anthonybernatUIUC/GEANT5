@@ -22264,3 +22264,93 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.22-02.16.36:123][364]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
 [2024.11.22-02.16.37:021][365]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
 [2024.11.22-02.16.59:433][745]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
+[2024.11.22-02.18.33:491][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5722.173828
+[2024.11.22-02.18.34:494][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-02.18.34:495][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5722.843750, Update Interval: 309.834900
+[2024.11.22-02.22.38:268][761]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
+[2024.11.22-02.22.39:924][762]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Turkey does not exist, will not scan.
+[2024.11.22-02.24.01:023][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.22-02.24.01:026][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.033
+[2024.11.22-02.24.07:525][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.22-02.24.07:541][171]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.22-02.24.07:541][171]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.11.22-02.24.07:553][171]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 11.730 ms (total: 201.594 ms)
+[2024.11.22-02.24.07:556][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.22-02.24.07:574][171]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-02.24.07:591][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016656s)
+[2024.11.22-02.24.07:591][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.016729s)
+[2024.11.22-02.24.07:616][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.11.22-02.24.07:618][171]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.11.22-02.24.07:621][171]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.22-02.24.07:621][171]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.22-02.24.07:621][171]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.22-02.24.07:621][171]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.22-02.24.07:638][171]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.11.22-02.24.07:638][171]LogWorldPartition: Display: WorldPartition initialize took 17.334 ms (total: 706.592 ms)
+[2024.11.22-02.24.07:638][171]LogPlayLevel: PIE: World Init took: (0.019746s)
+[2024.11.22-02.24.07:661][171]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.22-02.24.07:661][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.22-02.24.07:661][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.22-02.24.07:661][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.22-02.24.07:661][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.22-02.24.07:662][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.22-02.24.07:665][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.22-02.24.07:700][171]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Jabra Elite 7 Pro)
+[2024.11.22-02.24.07:700][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.22-02.24.07:700][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.22-02.24.07:700][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.22-02.24.07:702][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.11.22-02.24.07:702][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.11.22-02.24.07:704][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.11.22-02.24.07:704][171]LogInit: FAudioDevice initialized with ID 26.
+[2024.11.22-02.24.07:704][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.11.22-02.24.07:704][171]LogAudio: Display: Audio Device (ID: 26) registered with world 'Untitled_1'.
+[2024.11.22-02.24.07:704][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.11.22-02.24.07:709][171]LogLoad: Game class is 'GM_Base1_C'
+[2024.11.22-02.24.07:712][171]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2024.11.21-20.24.07
+[2024.11.22-02.24.07:712][171]LogWorld: Bringing up level for play took: 0.002989
+[2024.11.22-02.24.07:715][171]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.11.22-02.24.07:725][171]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.11.22-02.24.08:439][171]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.11.22-02.24.08:439][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.11.22-02.24.08:464][171]PIE: Server logged in
+[2024.11.22-02.24.08:465][171]PIE: Play in editor total start time 0.927 seconds.
+[2024.11.22-02.24.10:834][288]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.10:834][288]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.11.22-02.24.10:834][288]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.11.22-02.24.12:336][376]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.13:836][466]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.13:841][466]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-307.414 Y=1993.530 Z=52.150] for [Wave1Enemy_C]
+[2024.11.22-02.24.15:350][556]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.16:841][645]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.17:258][669]LogCharacterMovement: BP_TopDownChar_C_0 is stuck and failed to move! Velocity: X=168.95 Y=-168.95 Z=0.00 Location: X=-840.83 Y=829.00 Z=50.13 Normal: X=0.00 Y=0.85 Z=-0.52 PenetrationDepth:2.393 Actor:Wave1Enemy_C_0 Component:covid_Sprite_0 BoneName:None (0 other events since notify)
+[2024.11.22-02.24.18:343][734]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.19:843][824]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.21:343][914]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.21:582][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6070.265625
+[2024.11.22-02.24.21:649][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.22-02.24.21:649][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6070.316895, Update Interval: 359.498291
+[2024.11.22-02.24.22:843][  4]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.24:344][ 94]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2024.11.22-02.24.24:707][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-02.24.24:707][113]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.11.22-02.24.24:731][113]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.22-02.24.24:731][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.24.24:731][113]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.11.22-02.24.24:731][113]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.22-02.24.24:732][113]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.22-02.24.24:732][113]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.22-02.24.24:734][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.22-02.24.24:741][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.22-02.24.24:771][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.22-02.24.24:771][113]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.11.22-02.24.24:772][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.11.22-02.24.24:773][113]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.11.22-02.24.24:790][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.11.22-02.24.24:870][114]LogPlayLevel: Display: Destroying online subsystem :Context_32
